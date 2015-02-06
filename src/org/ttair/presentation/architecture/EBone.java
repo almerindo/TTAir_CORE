@@ -1,0 +1,11 @@
+package org.ttair.presentation.architecture;
+
+
+
+public enum EBone {
+	
+	   ALL, NECK, RIGHT_CLAVICLE, LEFT_CLAVICLE, RIGHT_ARM, LEFT_ARM, RIGHT_FOREARM, 
+	   LEFT_FOREARM, RIGHT_RIBS, LEFT_RIBS, RIGHT_WAIST, LEFT_WAIST, PELVIS, 
+	   RIGHT_FEMORAL, LEFT_FEMORAL, RIGHT_SHIN, LEFT_SHIN
+	    
+	}

@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--xtools2_universal_type_manager-->
+<?com.ibm.xtools.emf.core.signature <signature id="com.ibm.xtools.mmi.ui.signatures.diagram" version="7.0.0"><feature description="" name="Rational Modeling Platform (com.ibm.xtools.rmp)" url="" version="7.0.0"/></signature>?>
+<umlnotation:UMLDiagram xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:notation="http://www.eclipse.org/gmf/runtime/1.0.2/notation" xmlns:uml="http://www.eclipse.org/uml2/3.0.0/UML" xmlns:umlnotation="http://www.ibm.com/xtools/1.5.3/Umlnotation" xmi:id="_doZn8Id5EeSWhpYFSSBNFw" type="Class" name="cdActionControl.dnx">
+  <eAnnotations xmi:id="_doaPAId5EeSWhpYFSSBNFw" source="com.ibm.xtools.common.ui.reduction.editingCapabilities">
+    <details xmi:id="_doaPAYd5EeSWhpYFSSBNFw" key="com.ibm.xtools.activities.javaVisualizerActivity" value="1"/>
+  </eAnnotations>
+  <children xmi:type="umlnotation:UMLShape" xmi:id="_Qft2QIeAEeSWhpYFSSBNFw" fontName="Segoe UI" fontHeight="8" transparency="0" lineColor="14263149" lineWidth="1" showStereotype="Label">
+    <children xmi:type="notation:DecorationNode" xmi:id="_QfudUIeAEeSWhpYFSSBNFw" type="ImageCompartment">
+      <layoutConstraint xmi:type="notation:Size" xmi:id="_QfudUYeAEeSWhpYFSSBNFw" width="1320" height="1320"/>
+    </children>
+    <children xmi:type="notation:BasicDecorationNode" xmi:id="_QfvEYIeAEeSWhpYFSSBNFw" type="Stereotype"/>
+    <children xmi:type="notation:BasicDecorationNode" xmi:id="_QfvEYYeAEeSWhpYFSSBNFw" type="Name"/>
+    <children xmi:type="notation:BasicDecorationNode" xmi:id="_QfvEYoeAEeSWhpYFSSBNFw" type="Parent"/>
+    <children xmi:type="notation:ListCompartment" xmi:id="_QfvEY4eAEeSWhpYFSSBNFw" visible="false" type="ANNOTATION_COMPARTMENT"/>
+    <children xmi:type="notation:ListCompartment" xmi:id="_QfvrcIeAEeSWhpYFSSBNFw" type="ANNOTATED_ATTRIBUTE_COMPARTMENT"/>
+    <children xmi:type="notation:ListCompartment" xmi:id="_QfvrcYeAEeSWhpYFSSBNFw" type="ANNOTATED_OPERATION_COMPARTMENT"/>
+    <element xmi:type="uml:Class" href="mmi:///#jsrctype%5Ename=ANodeAction%5Bjcu%5Ename=ANodeAction.java%5Bjpack%5Ename=org.ttair.action.architecture%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=TTair4.0_Unstable%5D%5D%5D%5D$uml.Class"/>
+    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_Qft2QYeAEeSWhpYFSSBNFw" x="508" y="6350"/>
+  </children>
+  <children xmi:type="umlnotation:UMLShape" xmi:id="_Q3BjAIeAEeSWhpYFSSBNFw" fontName="Segoe UI" fontHeight="8" transparency="0" lineColor="14263149" lineWidth="1" showStereotype="Label">
+    <children xmi:type="notation:DecorationNode" xmi:id="_Q3CKEIeAEeSWhpYFSSBNFw" type="ImageCompartment">
+      <layoutConstraint xmi:type="notation:Size" xmi:id="_Q3CKEYeAEeSWhpYFSSBNFw" width="1320" height="1320"/>
+    </children>
+    <children xmi:type="notation:BasicDecorationNode" xmi:id="_Q3CxIIeAEeSWhpYFSSBNFw" type="Stereotype"/>
+    <children xmi:type="notation:BasicDecorationNode" xmi:id="_Q3CxIYeAEeSWhpYFSSBNFw" type="Name"/>
+    <children xmi:type="notation:BasicDecorationNode" xmi:id="_Q3CxIoeAEeSWhpYFSSBNFw" type="Parent"/>
+    <children xmi:type="notation:ListCompartment" xmi:id="_Q3CxI4eAEeSWhpYFSSBNFw" visible="false" type="ANNOTATION_COMPARTMENT"/>
+    <children xmi:type="notation:ListCompartment" xmi:id="_Q3CxJIeAEeSWhpYFSSBNFw" type="ANNOTATED_ATTRIBUTE_COMPARTMENT"/>
+    <children xmi:type="notation:ListCompartment" xmi:id="_Q3DYMIeAEeSWhpYFSSBNFw" type="ANNOTATED_OPERATION_COMPARTMENT"/>
+    <element xmi:type="uml:Class" href="mmi:///#jsrctype%5Ename=ActionControl%5Bjcu%5Ename=ActionControl.java%5Bjpack%5Ename=org.ttair.action%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=TTair4.0_Unstable%5D%5D%5D%5D$uml.Class"/>
+    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_Q3BjAYeAEeSWhpYFSSBNFw"/>
+  </children>
+  <children xmi:type="umlnotation:UMLShape" xmi:id="_SI7OwIeLEeSWhpYFSSBNFw" fontName="Segoe UI" fontHeight="8" transparency="0" lineColor="14263149" lineWidth="1" showStereotype="Label">
+    <children xmi:type="notation:DecorationNode" xmi:id="_SI710IeLEeSWhpYFSSBNFw" type="ImageCompartment">
+      <layoutConstraint xmi:type="notation:Size" xmi:id="_SI710YeLEeSWhpYFSSBNFw" width="1320" height="1320"/>
+    </children>
+    <children xmi:type="notation:BasicDecorationNode" xmi:id="_SI710oeLEeSWhpYFSSBNFw" type="Stereotype"/>
+    <children xmi:type="notation:BasicDecorationNode" xmi:id="_SI7104eLEeSWhpYFSSBNFw" type="Name"/>
+    <children xmi:type="notation:BasicDecorationNode" xmi:id="_SI8c4IeLEeSWhpYFSSBNFw" type="Parent"/>
+    <children xmi:type="notation:ListCompartment" xmi:id="_SI8c4YeLEeSWhpYFSSBNFw" visible="false" type="ANNOTATION_COMPARTMENT"/>
+    <children xmi:type="notation:ListCompartment" xmi:id="_SI-SEIeLEeSWhpYFSSBNFw" type="ANNOTATED_ATTRIBUTE_COMPARTMENT"/>
+    <children xmi:type="notation:ListCompartment" xmi:id="_SI-SEYeLEeSWhpYFSSBNFw" type="ANNOTATED_OPERATION_COMPARTMENT"/>
+    <element xmi:type="uml:Class" href="mmi:///#jsrctype%5Ename=TTAirObject%5Bjcu%5Ename=TTAirObject.java%5Bjpack%5Ename=org.ttair%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=TTair4.0_Unstable%5D%5D%5D%5D$uml.Class"/>
+    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_SI7OwYeLEeSWhpYFSSBNFw" x="5334" y="10668"/>
+  </children>
+  <children xmi:type="umlnotation:UMLShape" xmi:id="_8LU8wIePEeSWhpYFSSBNFw" fontName="Segoe UI" fontHeight="8" transparency="0" lineColor="14263149" lineWidth="1" showStereotype="Label">
+    <children xmi:type="notation:DecorationNode" xmi:id="_8LWK4IePEeSWhpYFSSBNFw" type="ImageCompartment">
+      <layoutConstraint xmi:type="notation:Size" xmi:id="_8LWK4YePEeSWhpYFSSBNFw" width="1320" height="1320"/>
+    </children>
+    <children xmi:type="notation:BasicDecorationNode" xmi:id="_8LWK4oePEeSWhpYFSSBNFw" type="Stereotype"/>
+    <children xmi:type="notation:BasicDecorationNode" xmi:id="_8LWx8IePEeSWhpYFSSBNFw" type="Name"/>
+    <children xmi:type="notation:BasicDecorationNode" xmi:id="_8LWx8YePEeSWhpYFSSBNFw" type="Parent"/>
+    <children xmi:type="notation:ListCompartment" xmi:id="_8LXZAIePEeSWhpYFSSBNFw" visible="false" type="ANNOTATION_COMPARTMENT"/>
+    <children xmi:type="notation:ListCompartment" xmi:id="_8LZOMIePEeSWhpYFSSBNFw" type="ANNOTATED_ATTRIBUTE_COMPARTMENT"/>
+    <children xmi:type="notation:ListCompartment" xmi:id="_8LZOMYePEeSWhpYFSSBNFw" type="ANNOTATED_OPERATION_COMPARTMENT"/>
+    <element xmi:type="uml:Class" href="mmi:///#jsrctype%5Ename=ANodeRecognizer%5Bjcu%5Ename=ANodeRecognizer.java%5Bjpack%5Ename=org.ttair.proccess.architecture%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=TTair4.0_Unstable%5D%5D%5D%5D$uml.Class"/>
+    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_8LU8wYePEeSWhpYFSSBNFw" x="8128" y="3048"/>
+  </children>
+  <children xmi:type="umlnotation:UMLShape" xmi:id="_AZ5O8IeQEeSWhpYFSSBNFw" fontName="Segoe UI" fontHeight="8" transparency="0" lineColor="14263149" lineWidth="1" showStereotype="Label">
+    <children xmi:type="notation:DecorationNode" xmi:id="_AZ52AIeQEeSWhpYFSSBNFw" type="ImageCompartment">
+      <layoutConstraint xmi:type="notation:Size" xmi:id="_AZ52AYeQEeSWhpYFSSBNFw" width="1320" height="1320"/>
+    </children>
+    <children xmi:type="notation:BasicDecorationNode" xmi:id="_AZ52AoeQEeSWhpYFSSBNFw" type="Stereotype"/>
+    <children xmi:type="notation:BasicDecorationNode" xmi:id="_AZ6dEIeQEeSWhpYFSSBNFw" type="Name"/>
+    <children xmi:type="notation:BasicDecorationNode" xmi:id="_AZ6dEYeQEeSWhpYFSSBNFw" type="Parent"/>
+    <children xmi:type="notation:ListCompartment" xmi:id="_AZ6dEoeQEeSWhpYFSSBNFw" visible="false" type="ANNOTATION_COMPARTMENT"/>
+    <children xmi:type="notation:ListCompartment" xmi:id="_AZ7rMIeQEeSWhpYFSSBNFw" type="ANNOTATED_ATTRIBUTE_COMPARTMENT"/>
+    <children xmi:type="notation:ListCompartment" xmi:id="_AZ7rMYeQEeSWhpYFSSBNFw" type="ANNOTATED_OPERATION_COMPARTMENT"/>
+    <element xmi:type="uml:Class" href="mmi:///#jsrctype%5Ename=LoggerManager%5Bjcu%5Ename=LoggerManager.java%5Bjpack%5Ename=org.ttair.util%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=TTair4.0_Unstable%5D%5D%5D%5D$uml.Class"/>
+    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_AZ5O8YeQEeSWhpYFSSBNFw" x="13589" y="27178"/>
+  </children>
+  <children xmi:type="umlnotation:UMLShape" xmi:id="_vULZQIeREeSWhpYFSSBNFw" fontName="Segoe UI" fontHeight="8" transparency="0" lineColor="14263149" lineWidth="1" showStereotype="Label">
+    <children xmi:type="notation:DecorationNode" xmi:id="_vUMAUIeREeSWhpYFSSBNFw" type="ImageCompartment">
+      <layoutConstraint xmi:type="notation:Size" xmi:id="_vUMAUYeREeSWhpYFSSBNFw" width="1320" height="1320"/>
+    </children>
+    <children xmi:type="notation:BasicDecorationNode" xmi:id="_vUMnYIeREeSWhpYFSSBNFw" type="Stereotype"/>
+    <children xmi:type="notation:BasicDecorationNode" xmi:id="_vUMnYYeREeSWhpYFSSBNFw" type="Name"/>
+    <children xmi:type="notation:BasicDecorationNode" xmi:id="_vUNOcIeREeSWhpYFSSBNFw" type="Parent"/>
+    <children xmi:type="notation:ListCompartment" xmi:id="_vUNOcYeREeSWhpYFSSBNFw" visible="false" type="ANNOTATION_COMPARTMENT"/>
+    <children xmi:type="notation:ListCompartment" xmi:id="_vUNOcoeREeSWhpYFSSBNFw" type="ANNOTATED_ATTRIBUTE_COMPARTMENT"/>
+    <children xmi:type="notation:ListCompartment" xmi:id="_vUNOc4eREeSWhpYFSSBNFw" type="ANNOTATED_OPERATION_COMPARTMENT"/>
+    <element xmi:type="uml:Class" href="mmi:///#jsrctype%5Ename=RecognizerControl%5Bjcu%5Ename=RecognizerControl.java%5Bjpack%5Ename=org.ttair.proccess%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=TTair4.0_Unstable%5D%5D%5D%5D$uml.Class"/>
+    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_vULZQYeREeSWhpYFSSBNFw" x="18034" y="2286"/>
+  </children>
+  <element xsi:nil="true"/>
+  <edges xmi:type="umlnotation:UMLConnector" xmi:id="_Q5vf0IeAEeSWhpYFSSBNFw" source="_Q3BjAIeAEeSWhpYFSSBNFw" target="_Qft2QIeAEeSWhpYFSSBNFw" fontName="Segoe UI" fontHeight="8" roundedBendpointsRadius="4" routing="Rectilinear" lineColor="8421504" lineWidth="1" showStereotype="Text">
+    <children xmi:type="notation:DecorationNode" xmi:id="_Q5wG4IeAEeSWhpYFSSBNFw" type="KindLabel">
+      <children xmi:type="notation:BasicDecorationNode" xmi:id="_Q5wt8IeAEeSWhpYFSSBNFw" type="Stereotype"/>
+      <children xmi:type="notation:BasicDecorationNode" xmi:id="_Q5xVAIeAEeSWhpYFSSBNFw" type="Kind"/>
+      <children xmi:type="notation:BasicDecorationNode" xmi:id="_Q5wt8YeAEeSWhpYFSSBNFw" type="Name"/>
+      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_Q5wG4YeAEeSWhpYFSSBNFw" y="-186"/>
+    </children>
+    <element xmi:type="uml:Usage" href="mmi:///#jdep%5Bjsrctype%5Ename=ActionControl%5Bjcu%5Ename=ActionControl.java%5Bjpack%5Ename=org.ttair.action%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=TTair4.0_Unstable%5D%5D%5D%5D%5D%5Bjsrctype%5Ename=ANodeAction%5Bjcu%5Ename=ANodeAction.java%5Bjpack%5Ename=org.ttair.action.architecture%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=TTair4.0_Unstable%5D%5D%5D%5D%5D$uml.Usage"/>
+    <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_Q5vf0YeAEeSWhpYFSSBNFw" points="[31, 83, 31, -1777]$[31, 1860, 31, 0]"/>
+    <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_VFLkgIeLEeSWhpYFSSBNFw" id="(0.5,0.9818378378378378)"/>
+    <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_VFLkgYeLEeSWhpYFSSBNFw" id="(0.5,0.0)"/>
+  </edges>
+  <edges xmi:type="umlnotation:UMLConnector" xmi:id="_SMhVUIeLEeSWhpYFSSBNFw" source="_Qft2QIeAEeSWhpYFSSBNFw" target="_SI7OwIeLEeSWhpYFSSBNFw" fontName="Segoe UI" fontHeight="8" roundedBendpointsRadius="4" routing="Rectilinear" lineColor="8421504" lineWidth="1" showStereotype="Text">
+    <children xmi:type="notation:DecorationNode" xmi:id="_SMhVUoeLEeSWhpYFSSBNFw" type="NameLabel">
+      <children xmi:type="notation:BasicDecorationNode" xmi:id="_SMhVVIeLEeSWhpYFSSBNFw" type="Stereotype"/>
+      <children xmi:type="notation:BasicDecorationNode" xmi:id="_SMh8YIeLEeSWhpYFSSBNFw" type="Name"/>
+      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_SMhVU4eLEeSWhpYFSSBNFw" y="-186"/>
+    </children>
+    <element xmi:type="uml:Generalization" href="mmi:///#jgen%5Bjsrctype%5Ename=ANodeAction%5Bjcu%5Ename=ANodeAction.java%5Bjpack%5Ename=org.ttair.action.architecture%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=TTair4.0_Unstable%5D%5D%5D%5D%5D%5Bjsrctype%5Ename=TTAirObject%5Bjcu%5Ename=TTAirObject.java%5Bjpack%5Ename=org.ttair%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=TTair4.0_Unstable%5D%5D%5D%5D%5D$uml.Generalization"/>
+    <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_SMhVUYeLEeSWhpYFSSBNFw" points="[31, 82, -3833, -1777]$[31, 589, -3833, -1270]$[3879, 589, 15, -1270]$[3879, 1859, 15, 0]"/>
+    <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_VFKWYIeLEeSWhpYFSSBNFw" id="(0.5,0.9679389312977099)"/>
+    <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_VFK9cIeLEeSWhpYFSSBNFw" id="(0.2500000000000002,0.0)"/>
+  </edges>
+  <edges xmi:type="umlnotation:UMLConnector" xmi:id="_8N9aAIePEeSWhpYFSSBNFw" source="_8LU8wIePEeSWhpYFSSBNFw" target="_SI7OwIeLEeSWhpYFSSBNFw" fontName="Segoe UI" fontHeight="8" roundedBendpointsRadius="4" routing="Rectilinear" lineColor="8421504" lineWidth="1" showStereotype="Text">
+    <children xmi:type="notation:DecorationNode" xmi:id="_8N-oIIePEeSWhpYFSSBNFw" type="NameLabel">
+      <children xmi:type="notation:BasicDecorationNode" xmi:id="_8N_PMIePEeSWhpYFSSBNFw" type="Stereotype"/>
+      <children xmi:type="notation:BasicDecorationNode" xmi:id="_8N_PMYePEeSWhpYFSSBNFw" type="Name"/>
+      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_8N-oIYePEeSWhpYFSSBNFw" y="-186"/>
+    </children>
+    <element xmi:type="uml:Generalization" href="mmi:///#jgen%5Bjsrctype%5Ename=ANodeRecognizer%5Bjcu%5Ename=ANodeRecognizer.java%5Bjpack%5Ename=org.ttair.proccess.architecture%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=TTair4.0_Unstable%5D%5D%5D%5D%5D%5Bjsrctype%5Ename=TTAirObject%5Bjcu%5Ename=TTAirObject.java%5Bjpack%5Ename=org.ttair%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=TTair4.0_Unstable%5D%5D%5D%5D%5D$uml.Generalization"/>
+    <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_8N9aAYePEeSWhpYFSSBNFw" points="[32, 80, 2508, -2264]$[32, 1074, 2508, -1270]$[-2429, 1074, 47, -1270]$[-2429, 2344, 47, 0]"/>
+    <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_obKGcIemEeSx954o7ExjiQ" id="(0.5002155555376067,0.9489981785063752)"/>
+    <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_obKtgIemEeSx954o7ExjiQ" id="(0.75,0.0)"/>
+  </edges>
+  <edges xmi:type="umlnotation:UMLConnector" xmi:id="_AcuggIeQEeSWhpYFSSBNFw" source="_SI7OwIeLEeSWhpYFSSBNFw" target="_AZ5O8IeQEeSWhpYFSSBNFw" fontName="Segoe UI" fontHeight="8" roundedBendpointsRadius="4" routing="Rectilinear" lineColor="8421504" lineWidth="1" showStereotype="Text">
+    <children xmi:type="notation:DecorationNode" xmi:id="_AcvuoIeQEeSWhpYFSSBNFw" type="KindLabel">
+      <children xmi:type="notation:BasicDecorationNode" xmi:id="_AcwVsIeQEeSWhpYFSSBNFw" type="Stereotype"/>
+      <children xmi:type="notation:BasicDecorationNode" xmi:id="_AcwVsoeQEeSWhpYFSSBNFw" type="Kind"/>
+      <children xmi:type="notation:BasicDecorationNode" xmi:id="_AcwVsYeQEeSWhpYFSSBNFw" type="Name"/>
+      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_AcvuoYeQEeSWhpYFSSBNFw" y="-186"/>
+    </children>
+    <element xmi:type="uml:Usage" href="mmi:///#jdep%5Bjsrctype%5Ename=TTAirObject%5Bjcu%5Ename=TTAirObject.java%5Bjpack%5Ename=org.ttair%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=TTair4.0_Unstable%5D%5D%5D%5D%5D%5Bjsrctype%5Ename=LoggerManager%5Bjcu%5Ename=LoggerManager.java%5Bjpack%5Ename=org.ttair.util%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=TTair4.0_Unstable%5D%5D%5D%5D%5D$uml.Usage"/>
+    <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_AcuggYeQEeSWhpYFSSBNFw" points="[31, 84, 31, -1777]$[31, 1861, 31, 0]"/>
+    <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_obIRQIemEeSx954o7ExjiQ" id="(0.5,0.9937532535137952)"/>
+    <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_obI4UIemEeSx954o7ExjiQ" id="(0.5,0.0)"/>
+  </edges>
+  <edges xmi:type="umlnotation:UMLConnector" xmi:id="_vW5WEIeREeSWhpYFSSBNFw" source="_vULZQIeREeSWhpYFSSBNFw" target="_8LU8wIePEeSWhpYFSSBNFw" fontName="Segoe UI" fontHeight="8" roundedBendpointsRadius="4" routing="Rectilinear" lineColor="8421504" lineWidth="1" showStereotype="Text">
+    <children xmi:type="notation:DecorationNode" xmi:id="_vW6kMIeREeSWhpYFSSBNFw" type="KindLabel">
+      <children xmi:type="notation:BasicDecorationNode" xmi:id="_vW7LQIeREeSWhpYFSSBNFw" type="Stereotype"/>
+      <children xmi:type="notation:BasicDecorationNode" xmi:id="_vW7yUIeREeSWhpYFSSBNFw" type="Kind"/>
+      <children xmi:type="notation:BasicDecorationNode" xmi:id="_vW7LQYeREeSWhpYFSSBNFw" type="Name"/>
+      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_vW6kMYeREeSWhpYFSSBNFw" y="-186"/>
+    </children>
+    <element xmi:type="uml:Usage" href="mmi:///#jdep%5Bjsrctype%5Ename=RecognizerControl%5Bjcu%5Ename=RecognizerControl.java%5Bjpack%5Ename=org.ttair.proccess%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=TTair4.0_Unstable%5D%5D%5D%5D%5D%5Bjsrctype%5Ename=ANodeRecognizer%5Bjcu%5Ename=ANodeRecognizer.java%5Bjpack%5Ename=org.ttair.proccess.architecture%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=TTair4.0_Unstable%5D%5D%5D%5D%5D$uml.Usage"/>
+    <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_vW59IIeREeSWhpYFSSBNFw" points="[42, 83, 32, -2263]$[42, 2346, 32, 0]"/>
+    <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_obLUkIemEeSx954o7ExjiQ" id="(0.6666667724411048,0.9818378378378378)"/>
+    <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_obL7oIemEeSx954o7ExjiQ" id="(0.5002155555376067,5.522129336811951E-16)"/>
+  </edges>
+  <edges xmi:type="umlnotation:UMLConnector" xmi:id="_vW8ZYIeREeSWhpYFSSBNFw" source="_vULZQIeREeSWhpYFSSBNFw" target="_SI7OwIeLEeSWhpYFSSBNFw" fontName="Segoe UI" fontHeight="8" roundedBendpointsRadius="4" routing="Rectilinear" lineColor="8421504" lineWidth="1" showStereotype="Text">
+    <children xmi:type="notation:DecorationNode" xmi:id="_vW9AcIeREeSWhpYFSSBNFw" type="KindLabel">
+      <children xmi:type="notation:BasicDecorationNode" xmi:id="_vW9ngIeREeSWhpYFSSBNFw" type="Stereotype"/>
+      <children xmi:type="notation:BasicDecorationNode" xmi:id="_vW-OkIeREeSWhpYFSSBNFw" type="Kind"/>
+      <children xmi:type="notation:BasicDecorationNode" xmi:id="_vW9ngYeREeSWhpYFSSBNFw" type="Name"/>
+      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_vW9AcYeREeSWhpYFSSBNFw" y="-186"/>
+    </children>
+    <element xmi:type="uml:Usage" href="mmi:///#jdep%5Bjsrctype%5Ename=RecognizerControl%5Bjcu%5Ename=RecognizerControl.java%5Bjpack%5Ename=org.ttair.proccess%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=TTair4.0_Unstable%5D%5D%5D%5D%5D%5Bjsrctype%5Ename=TTAirObject%5Bjcu%5Ename=TTAirObject.java%5Bjpack%5Ename=org.ttair%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=TTair4.0_Unstable%5D%5D%5D%5D%5D$uml.Usage"/>
+    <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_vW8ZYYeREeSWhpYFSSBNFw" points="[21, 83, 1418, -6090]$[21, 590, 1418, -5583]$[-1366, 590, 31, -5583]$[-1366, 6173, 31, 0]"/>
+    <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_obNJwIemEeSx954o7ExjiQ" id="(0.3333333862205524,0.9818378378378378)"/>
+    <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_obNw0IemEeSx954o7ExjiQ" id="(0.5,0.0)"/>
+  </edges>
+</umlnotation:UMLDiagram>

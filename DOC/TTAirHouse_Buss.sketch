@@ -1,0 +1,1343 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--xtools2_universal_type_manager-->
+<SketchNotation:SketchDiagram xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:SketchNotation="http://www.ibm.com/ccl/soa/sketch/notation/1.0.0/" xmlns:notation="http://www.eclipse.org/gmf/runtime/1.0.2/notation" xmi:id="_iD5tcJ_kEeSM_YFmrssJ4g" type="Sketch" name="sketch" measurementUnit="Himetric">
+  <children xmi:type="notation:Node" xmi:id="_iFisMJ_kEeSM_YFmrssJ4g" type="skrectangle">
+    <children xmi:type="notation:Node" xmi:id="_iFisMZ_kEeSM_YFmrssJ4g" type="skshapes">
+      <children xmi:type="notation:Node" xmi:id="_iFisMp_kEeSM_YFmrssJ4g" type="skrectangle">
+        <children xmi:type="notation:Node" xmi:id="_iFisM5_kEeSM_YFmrssJ4g" type="skshapes">
+          <children xmi:type="notation:Node" xmi:id="_iFisQZ_kEeSM_YFmrssJ4g" type="skcircle">
+            <children xmi:type="notation:Node" xmi:id="_iFisQp_kEeSM_YFmrssJ4g" type="skshapes">
+              <styles xmi:type="notation:DrawerStyle" xmi:id="_iFisQ5_kEeSM_YFmrssJ4g"/>
+              <styles xmi:type="notation:TitleStyle" xmi:id="_iFisRJ_kEeSM_YFmrssJ4g"/>
+              <styles xmi:type="notation:DrawerStyle" xmi:id="_iFisRZ_kEeSM_YFmrssJ4g"/>
+              <styles xmi:type="notation:TitleStyle" xmi:id="_iFisRp_kEeSM_YFmrssJ4g"/>
+              <element xsi:nil="true"/>
+            </children>
+            <children xmi:type="notation:Node" xmi:id="_iFisR5_kEeSM_YFmrssJ4g" type="skdescription">
+              <element xsi:nil="true"/>
+            </children>
+            <styles xmi:type="notation:ShapeStyle" xmi:id="_iFisSJ_kEeSM_YFmrssJ4g" description="ACT_C2_TVD: Desligar TV" transparency="0" lineWidth="3" roundedBendpointsRadius="12"/>
+            <styles xmi:type="notation:LineTypeStyle" xmi:id="_iFisSZ_kEeSM_YFmrssJ4g"/>
+            <styles xmi:type="SketchNotation:SketchStyle" xmi:id="_iFisSp_kEeSM_YFmrssJ4g">
+              <visualizedFromList>platform:/resource/TTair7.0_Unstable/DOC/TTAirHouse.sketch#_Qy5ZUZ_cEeSM_YFmrssJ4g</visualizedFromList>
+              <visualizedFromNameList>TTAirHouse.sketch</visualizedFromNameList>
+            </styles>
+            <styles xmi:type="notation:RoundedCornersStyle" xmi:id="_iFisS5_kEeSM_YFmrssJ4g"/>
+            <styles xmi:type="notation:TextStyle" xmi:id="_iFisTJ_kEeSM_YFmrssJ4g" textAlignment="Center"/>
+            <element xsi:nil="true"/>
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_iFisTZ_kEeSM_YFmrssJ4g" x="392" y="1500" width="5007" height="683"/>
+          </children>
+          <children xmi:type="notation:Node" xmi:id="_iFisTp_kEeSM_YFmrssJ4g" type="skcircle">
+            <children xmi:type="notation:Node" xmi:id="_iFisT5_kEeSM_YFmrssJ4g" type="skshapes">
+              <styles xmi:type="notation:DrawerStyle" xmi:id="_iFisUJ_kEeSM_YFmrssJ4g"/>
+              <styles xmi:type="notation:TitleStyle" xmi:id="_iFisUZ_kEeSM_YFmrssJ4g"/>
+              <styles xmi:type="notation:DrawerStyle" xmi:id="_iFisUp_kEeSM_YFmrssJ4g"/>
+              <styles xmi:type="notation:TitleStyle" xmi:id="_iFisU5_kEeSM_YFmrssJ4g"/>
+              <element xsi:nil="true"/>
+            </children>
+            <children xmi:type="notation:Node" xmi:id="_iFisVJ_kEeSM_YFmrssJ4g" type="skdescription">
+              <element xsi:nil="true"/>
+            </children>
+            <styles xmi:type="notation:ShapeStyle" xmi:id="_iFisVZ_kEeSM_YFmrssJ4g" description="ACT_C2_VEND: Desligar Ventilador" transparency="0" lineWidth="3" roundedBendpointsRadius="12"/>
+            <styles xmi:type="notation:LineTypeStyle" xmi:id="_iFisVp_kEeSM_YFmrssJ4g"/>
+            <styles xmi:type="SketchNotation:SketchStyle" xmi:id="_iFisV5_kEeSM_YFmrssJ4g">
+              <visualizedFromList>platform:/resource/TTair7.0_Unstable/DOC/TTAirHouse.sketch#_YNqhwZ_cEeSM_YFmrssJ4g</visualizedFromList>
+              <visualizedFromNameList>TTAirHouse.sketch</visualizedFromNameList>
+            </styles>
+            <styles xmi:type="notation:RoundedCornersStyle" xmi:id="_iFisWJ_kEeSM_YFmrssJ4g"/>
+            <styles xmi:type="notation:TextStyle" xmi:id="_iFisWZ_kEeSM_YFmrssJ4g" textAlignment="Center"/>
+            <element xsi:nil="true"/>
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_iFisWp_kEeSM_YFmrssJ4g" x="385" y="2769" width="6447" height="620"/>
+          </children>
+          <children xmi:type="notation:Node" xmi:id="_iFisdZ_kEeSM_YFmrssJ4g" type="skcircle">
+            <children xmi:type="notation:Node" xmi:id="_iFisdp_kEeSM_YFmrssJ4g" type="skshapes">
+              <styles xmi:type="notation:DrawerStyle" xmi:id="_iFisd5_kEeSM_YFmrssJ4g"/>
+              <styles xmi:type="notation:TitleStyle" xmi:id="_iFiseJ_kEeSM_YFmrssJ4g"/>
+              <styles xmi:type="notation:DrawerStyle" xmi:id="_iFiseZ_kEeSM_YFmrssJ4g"/>
+              <styles xmi:type="notation:TitleStyle" xmi:id="_iFisep_kEeSM_YFmrssJ4g"/>
+              <element xsi:nil="true"/>
+            </children>
+            <children xmi:type="notation:Node" xmi:id="_iFise5_kEeSM_YFmrssJ4g" type="skdescription">
+              <element xsi:nil="true"/>
+            </children>
+            <styles xmi:type="notation:ShapeStyle" xmi:id="_iFisfJ_kEeSM_YFmrssJ4g" description="ACT_C2_LUZD: Desligar TV" transparency="0" lineWidth="3" roundedBendpointsRadius="12"/>
+            <styles xmi:type="notation:LineTypeStyle" xmi:id="_iFisfZ_kEeSM_YFmrssJ4g"/>
+            <styles xmi:type="SketchNotation:SketchStyle" xmi:id="_iFisfp_kEeSM_YFmrssJ4g">
+              <visualizedFromList>platform:/resource/TTair7.0_Unstable/DOC/TTAirHouse.sketch#_4hJ3Tp_cEeSM_YFmrssJ4g</visualizedFromList>
+              <visualizedFromNameList>TTAirHouse.sketch</visualizedFromNameList>
+            </styles>
+            <styles xmi:type="notation:RoundedCornersStyle" xmi:id="_iFisf5_kEeSM_YFmrssJ4g"/>
+            <styles xmi:type="notation:TextStyle" xmi:id="_iFisgJ_kEeSM_YFmrssJ4g" textAlignment="Center"/>
+            <element xsi:nil="true"/>
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_iFisgZ_kEeSM_YFmrssJ4g" x="383" y="3991" width="5007" height="683"/>
+          </children>
+          <children xmi:type="notation:Node" xmi:id="_aRUTMJ_qEeSM_YFmrssJ4g" type="skcircle">
+            <children xmi:type="notation:Node" xmi:id="_aRUTMZ_qEeSM_YFmrssJ4g" type="skshapes">
+              <styles xmi:type="notation:DrawerStyle" xmi:id="_aRUTMp_qEeSM_YFmrssJ4g"/>
+              <styles xmi:type="notation:TitleStyle" xmi:id="_aRUTM5_qEeSM_YFmrssJ4g"/>
+              <styles xmi:type="notation:DrawerStyle" xmi:id="_aRUTNJ_qEeSM_YFmrssJ4g"/>
+              <styles xmi:type="notation:TitleStyle" xmi:id="_aRUTNZ_qEeSM_YFmrssJ4g"/>
+              <element xsi:nil="true"/>
+            </children>
+            <children xmi:type="notation:Node" xmi:id="_aRUTNp_qEeSM_YFmrssJ4g" type="skdescription">
+              <element xsi:nil="true"/>
+            </children>
+            <styles xmi:type="notation:ShapeStyle" xmi:id="_aRUTN5_qEeSM_YFmrssJ4g" description="ACT_C2_TVL: Ligar TV" transparency="0" lineWidth="3" roundedBendpointsRadius="12"/>
+            <styles xmi:type="notation:LineTypeStyle" xmi:id="_aRUTOJ_qEeSM_YFmrssJ4g"/>
+            <styles xmi:type="SketchNotation:SketchStyle" xmi:id="_aRUTOZ_qEeSM_YFmrssJ4g">
+              <visualizedFromList>platform:/resource/TTair7.0_Unstable/DOC/TTAirHouse.sketch#_KPBcoJ_cEeSM_YFmrssJ4g</visualizedFromList>
+              <visualizedFromNameList>TTAirHouse.sketch</visualizedFromNameList>
+            </styles>
+            <styles xmi:type="notation:RoundedCornersStyle" xmi:id="_aRUTOp_qEeSM_YFmrssJ4g"/>
+            <styles xmi:type="notation:TextStyle" xmi:id="_aRUTO5_qEeSM_YFmrssJ4g" textAlignment="Center"/>
+            <element xsi:nil="true"/>
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_aRUTPJ_qEeSM_YFmrssJ4g" x="502" y="943" width="4225" height="662"/>
+          </children>
+          <children xmi:type="notation:Node" xmi:id="_fpMAsJ_zEeSM_YFmrssJ4g" type="skcircle">
+            <children xmi:type="notation:Node" xmi:id="_fpMAsZ_zEeSM_YFmrssJ4g" type="skshapes">
+              <styles xmi:type="notation:DrawerStyle" xmi:id="_fpMAsp_zEeSM_YFmrssJ4g"/>
+              <styles xmi:type="notation:TitleStyle" xmi:id="_fpMAs5_zEeSM_YFmrssJ4g"/>
+              <styles xmi:type="notation:DrawerStyle" xmi:id="_fpMAtJ_zEeSM_YFmrssJ4g"/>
+              <styles xmi:type="notation:TitleStyle" xmi:id="_fpMAtZ_zEeSM_YFmrssJ4g"/>
+              <element xsi:nil="true"/>
+            </children>
+            <children xmi:type="notation:Node" xmi:id="_fpMAtp_zEeSM_YFmrssJ4g" type="skdescription">
+              <element xsi:nil="true"/>
+            </children>
+            <styles xmi:type="notation:ShapeStyle" xmi:id="_fpMAt5_zEeSM_YFmrssJ4g" description="ACT_C2_LUZL: Ligar LUZ" transparency="0" lineWidth="3" roundedBendpointsRadius="12"/>
+            <styles xmi:type="notation:LineTypeStyle" xmi:id="_fpMAuJ_zEeSM_YFmrssJ4g"/>
+            <styles xmi:type="SketchNotation:SketchStyle" xmi:id="_fpMAuZ_zEeSM_YFmrssJ4g">
+              <visualizedFromList>platform:/resource/TTair7.0_Unstable/DOC/TTAirHouse.sketch#_4hJ3QZ_cEeSM_YFmrssJ4g</visualizedFromList>
+              <visualizedFromNameList>TTAirHouse.sketch</visualizedFromNameList>
+            </styles>
+            <styles xmi:type="notation:RoundedCornersStyle" xmi:id="_fpMAup_zEeSM_YFmrssJ4g"/>
+            <styles xmi:type="notation:TextStyle" xmi:id="_fpMAu5_zEeSM_YFmrssJ4g" textAlignment="Center"/>
+            <element xsi:nil="true"/>
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_fpMAvJ_zEeSM_YFmrssJ4g" x="409" y="3395" width="4669" height="662"/>
+          </children>
+          <children xmi:type="notation:Node" xmi:id="_p0zgIJ_zEeSM_YFmrssJ4g" type="skcircle">
+            <children xmi:type="notation:Node" xmi:id="_p0zgIZ_zEeSM_YFmrssJ4g" type="skshapes">
+              <styles xmi:type="notation:DrawerStyle" xmi:id="_p0zgIp_zEeSM_YFmrssJ4g"/>
+              <styles xmi:type="notation:TitleStyle" xmi:id="_p0zgI5_zEeSM_YFmrssJ4g"/>
+              <styles xmi:type="notation:DrawerStyle" xmi:id="_p0zgJJ_zEeSM_YFmrssJ4g"/>
+              <styles xmi:type="notation:TitleStyle" xmi:id="_p0zgJZ_zEeSM_YFmrssJ4g"/>
+              <element xsi:nil="true"/>
+            </children>
+            <children xmi:type="notation:Node" xmi:id="_p0zgJp_zEeSM_YFmrssJ4g" type="skdescription">
+              <element xsi:nil="true"/>
+            </children>
+            <styles xmi:type="notation:ShapeStyle" xmi:id="_p0zgJ5_zEeSM_YFmrssJ4g" description="ACT_C2_VENL: Ligar Ventilador" transparency="0" lineWidth="3" roundedBendpointsRadius="12"/>
+            <styles xmi:type="notation:LineTypeStyle" xmi:id="_p0zgKJ_zEeSM_YFmrssJ4g"/>
+            <styles xmi:type="SketchNotation:SketchStyle" xmi:id="_p0zgKZ_zEeSM_YFmrssJ4g">
+              <visualizedFromList>platform:/resource/TTair7.0_Unstable/DOC/TTAirHouse.sketch#_jdB9MJ_cEeSM_YFmrssJ4g</visualizedFromList>
+              <visualizedFromNameList>TTAirHouse.sketch</visualizedFromNameList>
+            </styles>
+            <styles xmi:type="notation:RoundedCornersStyle" xmi:id="_p0zgKp_zEeSM_YFmrssJ4g"/>
+            <styles xmi:type="notation:TextStyle" xmi:id="_p0zgK5_zEeSM_YFmrssJ4g" textAlignment="Center"/>
+            <element xsi:nil="true"/>
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_p0zgLJ_zEeSM_YFmrssJ4g" x="395" y="2131" width="5854" height="641"/>
+          </children>
+          <styles xmi:type="notation:DrawerStyle" xmi:id="_iFisgp_kEeSM_YFmrssJ4g"/>
+          <styles xmi:type="notation:TitleStyle" xmi:id="_iFisg5_kEeSM_YFmrssJ4g"/>
+          <styles xmi:type="notation:DrawerStyle" xmi:id="_iFishJ_kEeSM_YFmrssJ4g"/>
+          <styles xmi:type="notation:TitleStyle" xmi:id="_iFishZ_kEeSM_YFmrssJ4g"/>
+          <element xsi:nil="true"/>
+        </children>
+        <children xmi:type="notation:Node" xmi:id="_iFishp_kEeSM_YFmrssJ4g" type="skdescription">
+          <element xsi:nil="true"/>
+        </children>
+        <styles xmi:type="notation:ShapeStyle" xmi:id="_iFish5_kEeSM_YFmrssJ4g" description="Actions Cômodo 2" transparency="0" lineWidth="3" roundedBendpointsRadius="12"/>
+        <styles xmi:type="notation:LineTypeStyle" xmi:id="_iFisiJ_kEeSM_YFmrssJ4g"/>
+        <styles xmi:type="SketchNotation:SketchStyle" xmi:id="_iFisiZ_kEeSM_YFmrssJ4g" expandWidth="7239" expandHeight="5545">
+          <visualizedFromList>platform:/resource/TTair7.0_Unstable/DOC/TTAirHouse.sketch#_qi3iAJ_dEeSM_YFmrssJ4g</visualizedFromList>
+          <visualizedFromNameList>TTAirHouse.sketch</visualizedFromNameList>
+        </styles>
+        <styles xmi:type="notation:RoundedCornersStyle" xmi:id="_iFisip_kEeSM_YFmrssJ4g"/>
+        <styles xmi:type="notation:TextStyle" xmi:id="_iFisi5_kEeSM_YFmrssJ4g" textAlignment="Center"/>
+        <element xsi:nil="true"/>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_iFisjJ_kEeSM_YFmrssJ4g" x="266" y="710" width="7239" height="5545"/>
+      </children>
+      <children xmi:type="notation:Node" xmi:id="_iFisjZ_kEeSM_YFmrssJ4g" type="skrectangle">
+        <children xmi:type="notation:Node" xmi:id="_iFisjp_kEeSM_YFmrssJ4g" type="skshapes">
+          <children xmi:type="notation:Node" xmi:id="_iFisj5_kEeSM_YFmrssJ4g" type="skcircle">
+            <children xmi:type="notation:Node" xmi:id="_iFiskJ_kEeSM_YFmrssJ4g" type="skshapes">
+              <styles xmi:type="notation:DrawerStyle" xmi:id="_iFiskZ_kEeSM_YFmrssJ4g"/>
+              <styles xmi:type="notation:TitleStyle" xmi:id="_iFiskp_kEeSM_YFmrssJ4g"/>
+              <styles xmi:type="notation:DrawerStyle" xmi:id="_iFisk5_kEeSM_YFmrssJ4g"/>
+              <styles xmi:type="notation:TitleStyle" xmi:id="_iFislJ_kEeSM_YFmrssJ4g"/>
+              <element xsi:nil="true"/>
+            </children>
+            <children xmi:type="notation:Node" xmi:id="_iFislZ_kEeSM_YFmrssJ4g" type="skdescription">
+              <element xsi:nil="true"/>
+            </children>
+            <styles xmi:type="notation:ShapeStyle" xmi:id="_iFislp_kEeSM_YFmrssJ4g" description="ACT_C3_TVL: Ligar TV" transparency="0" lineWidth="3" roundedBendpointsRadius="12"/>
+            <styles xmi:type="notation:LineTypeStyle" xmi:id="_iFisl5_kEeSM_YFmrssJ4g"/>
+            <styles xmi:type="SketchNotation:SketchStyle" xmi:id="_iFismJ_kEeSM_YFmrssJ4g">
+              <visualizedFromList>platform:/resource/TTair7.0_Unstable/DOC/TTAirHouse.sketch#_1N0o05_dEeSM_YFmrssJ4g</visualizedFromList>
+              <visualizedFromNameList>TTAirHouse.sketch</visualizedFromNameList>
+            </styles>
+            <styles xmi:type="notation:RoundedCornersStyle" xmi:id="_iFismZ_kEeSM_YFmrssJ4g"/>
+            <styles xmi:type="notation:TextStyle" xmi:id="_iFismp_kEeSM_YFmrssJ4g" textAlignment="Center"/>
+            <element xsi:nil="true"/>
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_iFism5_kEeSM_YFmrssJ4g" x="502" y="943" width="4225" height="662"/>
+          </children>
+          <children xmi:type="notation:Node" xmi:id="_iFisnJ_kEeSM_YFmrssJ4g" type="skcircle">
+            <children xmi:type="notation:Node" xmi:id="_iFisnZ_kEeSM_YFmrssJ4g" type="skshapes">
+              <styles xmi:type="notation:DrawerStyle" xmi:id="_iFisnp_kEeSM_YFmrssJ4g"/>
+              <styles xmi:type="notation:TitleStyle" xmi:id="_iFisn5_kEeSM_YFmrssJ4g"/>
+              <styles xmi:type="notation:DrawerStyle" xmi:id="_iFisoJ_kEeSM_YFmrssJ4g"/>
+              <styles xmi:type="notation:TitleStyle" xmi:id="_iFisoZ_kEeSM_YFmrssJ4g"/>
+              <element xsi:nil="true"/>
+            </children>
+            <children xmi:type="notation:Node" xmi:id="_iFisop_kEeSM_YFmrssJ4g" type="skdescription">
+              <element xsi:nil="true"/>
+            </children>
+            <styles xmi:type="notation:ShapeStyle" xmi:id="_iFiso5_kEeSM_YFmrssJ4g" description="ACT_C3_TVD: Desligar TV" transparency="0" lineWidth="3" roundedBendpointsRadius="12"/>
+            <styles xmi:type="notation:LineTypeStyle" xmi:id="_iFispJ_kEeSM_YFmrssJ4g"/>
+            <styles xmi:type="SketchNotation:SketchStyle" xmi:id="_iFispZ_kEeSM_YFmrssJ4g">
+              <visualizedFromList>platform:/resource/TTair7.0_Unstable/DOC/TTAirHouse.sketch#_1N0o4J_dEeSM_YFmrssJ4g</visualizedFromList>
+              <visualizedFromNameList>TTAirHouse.sketch</visualizedFromNameList>
+            </styles>
+            <styles xmi:type="notation:RoundedCornersStyle" xmi:id="_iFispp_kEeSM_YFmrssJ4g"/>
+            <styles xmi:type="notation:TextStyle" xmi:id="_iFisp5_kEeSM_YFmrssJ4g" textAlignment="Center"/>
+            <element xsi:nil="true"/>
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_iFisqJ_kEeSM_YFmrssJ4g" x="392" y="1500" width="5007" height="683"/>
+          </children>
+          <children xmi:type="notation:Node" xmi:id="_iFisqZ_kEeSM_YFmrssJ4g" type="skcircle">
+            <children xmi:type="notation:Node" xmi:id="_iFisqp_kEeSM_YFmrssJ4g" type="skshapes">
+              <styles xmi:type="notation:DrawerStyle" xmi:id="_iFisq5_kEeSM_YFmrssJ4g"/>
+              <styles xmi:type="notation:TitleStyle" xmi:id="_iFisrJ_kEeSM_YFmrssJ4g"/>
+              <styles xmi:type="notation:DrawerStyle" xmi:id="_iFisrZ_kEeSM_YFmrssJ4g"/>
+              <styles xmi:type="notation:TitleStyle" xmi:id="_iFisrp_kEeSM_YFmrssJ4g"/>
+              <element xsi:nil="true"/>
+            </children>
+            <children xmi:type="notation:Node" xmi:id="_iFisr5_kEeSM_YFmrssJ4g" type="skdescription">
+              <element xsi:nil="true"/>
+            </children>
+            <styles xmi:type="notation:ShapeStyle" xmi:id="_iFissJ_kEeSM_YFmrssJ4g" description="ACT_C3_VEND: Desligar Ventilador" transparency="0" lineWidth="3" roundedBendpointsRadius="12"/>
+            <styles xmi:type="notation:LineTypeStyle" xmi:id="_iFissZ_kEeSM_YFmrssJ4g"/>
+            <styles xmi:type="SketchNotation:SketchStyle" xmi:id="_iFissp_kEeSM_YFmrssJ4g">
+              <visualizedFromList>platform:/resource/TTair7.0_Unstable/DOC/TTAirHouse.sketch#_1N0o7Z_dEeSM_YFmrssJ4g</visualizedFromList>
+              <visualizedFromNameList>TTAirHouse.sketch</visualizedFromNameList>
+            </styles>
+            <styles xmi:type="notation:RoundedCornersStyle" xmi:id="_iFiss5_kEeSM_YFmrssJ4g"/>
+            <styles xmi:type="notation:TextStyle" xmi:id="_iFistJ_kEeSM_YFmrssJ4g" textAlignment="Center"/>
+            <element xsi:nil="true"/>
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_iFistZ_kEeSM_YFmrssJ4g" x="385" y="2769" width="6447" height="620"/>
+          </children>
+          <children xmi:type="notation:Node" xmi:id="_iFistp_kEeSM_YFmrssJ4g" type="skcircle">
+            <children xmi:type="notation:Node" xmi:id="_iFist5_kEeSM_YFmrssJ4g" type="skshapes">
+              <styles xmi:type="notation:DrawerStyle" xmi:id="_iFisuJ_kEeSM_YFmrssJ4g"/>
+              <styles xmi:type="notation:TitleStyle" xmi:id="_iFisuZ_kEeSM_YFmrssJ4g"/>
+              <styles xmi:type="notation:DrawerStyle" xmi:id="_iFisup_kEeSM_YFmrssJ4g"/>
+              <styles xmi:type="notation:TitleStyle" xmi:id="_iFisu5_kEeSM_YFmrssJ4g"/>
+              <element xsi:nil="true"/>
+            </children>
+            <children xmi:type="notation:Node" xmi:id="_iFisvJ_kEeSM_YFmrssJ4g" type="skdescription">
+              <element xsi:nil="true"/>
+            </children>
+            <styles xmi:type="notation:ShapeStyle" xmi:id="_iFisvZ_kEeSM_YFmrssJ4g" description="ACT_C3_VENL: Ligar Ventilador" transparency="0" lineWidth="3" roundedBendpointsRadius="12"/>
+            <styles xmi:type="notation:LineTypeStyle" xmi:id="_iFisvp_kEeSM_YFmrssJ4g"/>
+            <styles xmi:type="SketchNotation:SketchStyle" xmi:id="_iFisv5_kEeSM_YFmrssJ4g">
+              <visualizedFromList>platform:/resource/TTair7.0_Unstable/DOC/TTAirHouse.sketch#_1N0o-p_dEeSM_YFmrssJ4g</visualizedFromList>
+              <visualizedFromNameList>TTAirHouse.sketch</visualizedFromNameList>
+            </styles>
+            <styles xmi:type="notation:RoundedCornersStyle" xmi:id="_iFiswJ_kEeSM_YFmrssJ4g"/>
+            <styles xmi:type="notation:TextStyle" xmi:id="_iFiswZ_kEeSM_YFmrssJ4g" textAlignment="Center"/>
+            <element xsi:nil="true"/>
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_iFiswp_kEeSM_YFmrssJ4g" x="395" y="2131" width="5854" height="641"/>
+          </children>
+          <children xmi:type="notation:Node" xmi:id="_iFisw5_kEeSM_YFmrssJ4g" type="skcircle">
+            <children xmi:type="notation:Node" xmi:id="_iFisxJ_kEeSM_YFmrssJ4g" type="skshapes">
+              <styles xmi:type="notation:DrawerStyle" xmi:id="_iFisxZ_kEeSM_YFmrssJ4g"/>
+              <styles xmi:type="notation:TitleStyle" xmi:id="_iFisxp_kEeSM_YFmrssJ4g"/>
+              <styles xmi:type="notation:DrawerStyle" xmi:id="_iFisx5_kEeSM_YFmrssJ4g"/>
+              <styles xmi:type="notation:TitleStyle" xmi:id="_iFisyJ_kEeSM_YFmrssJ4g"/>
+              <element xsi:nil="true"/>
+            </children>
+            <children xmi:type="notation:Node" xmi:id="_iFisyZ_kEeSM_YFmrssJ4g" type="skdescription">
+              <element xsi:nil="true"/>
+            </children>
+            <styles xmi:type="notation:ShapeStyle" xmi:id="_iFisyp_kEeSM_YFmrssJ4g" description="ACT_C3_LUZL: Ligar LUZ" transparency="0" lineWidth="3" roundedBendpointsRadius="12"/>
+            <styles xmi:type="notation:LineTypeStyle" xmi:id="_iFisy5_kEeSM_YFmrssJ4g"/>
+            <styles xmi:type="SketchNotation:SketchStyle" xmi:id="_iFiszJ_kEeSM_YFmrssJ4g">
+              <visualizedFromList>platform:/resource/TTair7.0_Unstable/DOC/TTAirHouse.sketch#_1N0pB5_dEeSM_YFmrssJ4g</visualizedFromList>
+              <visualizedFromNameList>TTAirHouse.sketch</visualizedFromNameList>
+            </styles>
+            <styles xmi:type="notation:RoundedCornersStyle" xmi:id="_iFiszZ_kEeSM_YFmrssJ4g"/>
+            <styles xmi:type="notation:TextStyle" xmi:id="_iFiszp_kEeSM_YFmrssJ4g" textAlignment="Center"/>
+            <element xsi:nil="true"/>
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_iFisz5_kEeSM_YFmrssJ4g" x="409" y="3395" width="4669" height="662"/>
+          </children>
+          <children xmi:type="notation:Node" xmi:id="_iFis0J_kEeSM_YFmrssJ4g" type="skcircle">
+            <children xmi:type="notation:Node" xmi:id="_iFis0Z_kEeSM_YFmrssJ4g" type="skshapes">
+              <styles xmi:type="notation:DrawerStyle" xmi:id="_iFis0p_kEeSM_YFmrssJ4g"/>
+              <styles xmi:type="notation:TitleStyle" xmi:id="_iFis05_kEeSM_YFmrssJ4g"/>
+              <styles xmi:type="notation:DrawerStyle" xmi:id="_iFis1J_kEeSM_YFmrssJ4g"/>
+              <styles xmi:type="notation:TitleStyle" xmi:id="_iFis1Z_kEeSM_YFmrssJ4g"/>
+              <element xsi:nil="true"/>
+            </children>
+            <children xmi:type="notation:Node" xmi:id="_iFis1p_kEeSM_YFmrssJ4g" type="skdescription">
+              <element xsi:nil="true"/>
+            </children>
+            <styles xmi:type="notation:ShapeStyle" xmi:id="_iFis15_kEeSM_YFmrssJ4g" description="ACT_C3_LUZD: Desligar TV" transparency="0" lineWidth="3" roundedBendpointsRadius="12"/>
+            <styles xmi:type="notation:LineTypeStyle" xmi:id="_iFis2J_kEeSM_YFmrssJ4g"/>
+            <styles xmi:type="SketchNotation:SketchStyle" xmi:id="_iFis2Z_kEeSM_YFmrssJ4g">
+              <visualizedFromList>platform:/resource/TTair7.0_Unstable/DOC/TTAirHouse.sketch#_1N0pFJ_dEeSM_YFmrssJ4g</visualizedFromList>
+              <visualizedFromNameList>TTAirHouse.sketch</visualizedFromNameList>
+            </styles>
+            <styles xmi:type="notation:RoundedCornersStyle" xmi:id="_iFis2p_kEeSM_YFmrssJ4g"/>
+            <styles xmi:type="notation:TextStyle" xmi:id="_iFis25_kEeSM_YFmrssJ4g" textAlignment="Center"/>
+            <element xsi:nil="true"/>
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_iFis3J_kEeSM_YFmrssJ4g" x="383" y="3991" width="5007" height="683"/>
+          </children>
+          <styles xmi:type="notation:DrawerStyle" xmi:id="_iFis3Z_kEeSM_YFmrssJ4g"/>
+          <styles xmi:type="notation:TitleStyle" xmi:id="_iFis3p_kEeSM_YFmrssJ4g"/>
+          <styles xmi:type="notation:DrawerStyle" xmi:id="_iFis35_kEeSM_YFmrssJ4g"/>
+          <styles xmi:type="notation:TitleStyle" xmi:id="_iFis4J_kEeSM_YFmrssJ4g"/>
+          <element xsi:nil="true"/>
+        </children>
+        <children xmi:type="notation:Node" xmi:id="_iFis4Z_kEeSM_YFmrssJ4g" type="skdescription">
+          <element xsi:nil="true"/>
+        </children>
+        <styles xmi:type="notation:ShapeStyle" xmi:id="_iFis4p_kEeSM_YFmrssJ4g" description="Actions Cômodo 3" transparency="0" lineWidth="3" roundedBendpointsRadius="12"/>
+        <styles xmi:type="notation:LineTypeStyle" xmi:id="_iFis45_kEeSM_YFmrssJ4g"/>
+        <styles xmi:type="SketchNotation:SketchStyle" xmi:id="_iFis5J_kEeSM_YFmrssJ4g" expandWidth="7239" expandHeight="5545">
+          <visualizedFromList>platform:/resource/TTair7.0_Unstable/DOC/TTAirHouse.sketch#_1N0o0Z_dEeSM_YFmrssJ4g</visualizedFromList>
+          <visualizedFromNameList>TTAirHouse.sketch</visualizedFromNameList>
+        </styles>
+        <styles xmi:type="notation:RoundedCornersStyle" xmi:id="_iFis5Z_kEeSM_YFmrssJ4g"/>
+        <styles xmi:type="notation:TextStyle" xmi:id="_iFis5p_kEeSM_YFmrssJ4g" textAlignment="Center"/>
+        <element xsi:nil="true"/>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_iFis55_kEeSM_YFmrssJ4g" x="7770" y="695" width="7239" height="5545"/>
+      </children>
+      <children xmi:type="notation:Node" xmi:id="_iFis6J_kEeSM_YFmrssJ4g" type="skrectangle">
+        <children xmi:type="notation:Node" xmi:id="_iFis6Z_kEeSM_YFmrssJ4g" type="skshapes">
+          <children xmi:type="notation:Node" xmi:id="_iFis6p_kEeSM_YFmrssJ4g" type="skcircle">
+            <children xmi:type="notation:Node" xmi:id="_iFis65_kEeSM_YFmrssJ4g" type="skshapes">
+              <styles xmi:type="notation:DrawerStyle" xmi:id="_iFis7J_kEeSM_YFmrssJ4g"/>
+              <styles xmi:type="notation:TitleStyle" xmi:id="_iFis7Z_kEeSM_YFmrssJ4g"/>
+              <styles xmi:type="notation:DrawerStyle" xmi:id="_iFis7p_kEeSM_YFmrssJ4g"/>
+              <styles xmi:type="notation:TitleStyle" xmi:id="_iFis75_kEeSM_YFmrssJ4g"/>
+              <element xsi:nil="true"/>
+            </children>
+            <children xmi:type="notation:Node" xmi:id="_iFis8J_kEeSM_YFmrssJ4g" type="skdescription">
+              <element xsi:nil="true"/>
+            </children>
+            <styles xmi:type="notation:ShapeStyle" xmi:id="_iFis8Z_kEeSM_YFmrssJ4g" description="ACT_C5_ABAD: Desligar Abajur" transparency="0" lineWidth="3" roundedBendpointsRadius="12"/>
+            <styles xmi:type="notation:LineTypeStyle" xmi:id="_iFis8p_kEeSM_YFmrssJ4g"/>
+            <styles xmi:type="SketchNotation:SketchStyle" xmi:id="_iFis85_kEeSM_YFmrssJ4g">
+              <visualizedFromList>platform:/resource/TTair7.0_Unstable/DOC/TTAirHouse.sketch#_BtoYjZ_eEeSM_YFmrssJ4g</visualizedFromList>
+              <visualizedFromNameList>TTAirHouse.sketch</visualizedFromNameList>
+            </styles>
+            <styles xmi:type="notation:RoundedCornersStyle" xmi:id="_iFis9J_kEeSM_YFmrssJ4g"/>
+            <styles xmi:type="notation:TextStyle" xmi:id="_iFis9Z_kEeSM_YFmrssJ4g" textAlignment="Center"/>
+            <element xsi:nil="true"/>
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_iFis9p_kEeSM_YFmrssJ4g" x="11" y="2769" width="6447" height="620"/>
+          </children>
+          <children xmi:type="notation:Node" xmi:id="_iFis95_kEeSM_YFmrssJ4g" type="skcircle">
+            <children xmi:type="notation:Node" xmi:id="_iFis-J_kEeSM_YFmrssJ4g" type="skshapes">
+              <styles xmi:type="notation:DrawerStyle" xmi:id="_iFis-Z_kEeSM_YFmrssJ4g"/>
+              <styles xmi:type="notation:TitleStyle" xmi:id="_iFis-p_kEeSM_YFmrssJ4g"/>
+              <styles xmi:type="notation:DrawerStyle" xmi:id="_iFis-5_kEeSM_YFmrssJ4g"/>
+              <styles xmi:type="notation:TitleStyle" xmi:id="_iFis_J_kEeSM_YFmrssJ4g"/>
+              <element xsi:nil="true"/>
+            </children>
+            <children xmi:type="notation:Node" xmi:id="_iFis_Z_kEeSM_YFmrssJ4g" type="skdescription">
+              <element xsi:nil="true"/>
+            </children>
+            <styles xmi:type="notation:ShapeStyle" xmi:id="_iFis_p_kEeSM_YFmrssJ4g" description="ACT_C5_ABAL: Ligar Abajur" transparency="0" lineWidth="3" roundedBendpointsRadius="12"/>
+            <styles xmi:type="notation:LineTypeStyle" xmi:id="_iFis_5_kEeSM_YFmrssJ4g"/>
+            <styles xmi:type="SketchNotation:SketchStyle" xmi:id="_iFitAJ_kEeSM_YFmrssJ4g">
+              <visualizedFromList>platform:/resource/TTair7.0_Unstable/DOC/TTAirHouse.sketch#_BtoYmp_eEeSM_YFmrssJ4g</visualizedFromList>
+              <visualizedFromNameList>TTAirHouse.sketch</visualizedFromNameList>
+            </styles>
+            <styles xmi:type="notation:RoundedCornersStyle" xmi:id="_iFitAZ_kEeSM_YFmrssJ4g"/>
+            <styles xmi:type="notation:TextStyle" xmi:id="_iFitAp_kEeSM_YFmrssJ4g" textAlignment="Center"/>
+            <element xsi:nil="true"/>
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_iFitA5_kEeSM_YFmrssJ4g" x="21" y="2131" width="5854" height="641"/>
+          </children>
+          <children xmi:type="notation:Node" xmi:id="_iFitEZ_kEeSM_YFmrssJ4g" type="skcircle">
+            <children xmi:type="notation:Node" xmi:id="_iFitEp_kEeSM_YFmrssJ4g" type="skshapes">
+              <styles xmi:type="notation:DrawerStyle" xmi:id="_iFitE5_kEeSM_YFmrssJ4g"/>
+              <styles xmi:type="notation:TitleStyle" xmi:id="_iFitFJ_kEeSM_YFmrssJ4g"/>
+              <styles xmi:type="notation:DrawerStyle" xmi:id="_iFitFZ_kEeSM_YFmrssJ4g"/>
+              <styles xmi:type="notation:TitleStyle" xmi:id="_iFitFp_kEeSM_YFmrssJ4g"/>
+              <element xsi:nil="true"/>
+            </children>
+            <children xmi:type="notation:Node" xmi:id="_iFitF5_kEeSM_YFmrssJ4g" type="skdescription">
+              <element xsi:nil="true"/>
+            </children>
+            <styles xmi:type="notation:ShapeStyle" xmi:id="_iFitGJ_kEeSM_YFmrssJ4g" description="ACT_C5_LUZD: Desligar TV" transparency="0" lineWidth="3" roundedBendpointsRadius="12"/>
+            <styles xmi:type="notation:LineTypeStyle" xmi:id="_iFitGZ_kEeSM_YFmrssJ4g"/>
+            <styles xmi:type="SketchNotation:SketchStyle" xmi:id="_iFitGp_kEeSM_YFmrssJ4g">
+              <visualizedFromList>platform:/resource/TTair7.0_Unstable/DOC/TTAirHouse.sketch#_BtoYtJ_eEeSM_YFmrssJ4g</visualizedFromList>
+              <visualizedFromNameList>TTAirHouse.sketch</visualizedFromNameList>
+            </styles>
+            <styles xmi:type="notation:RoundedCornersStyle" xmi:id="_iFitG5_kEeSM_YFmrssJ4g"/>
+            <styles xmi:type="notation:TextStyle" xmi:id="_iFitHJ_kEeSM_YFmrssJ4g" textAlignment="Center"/>
+            <element xsi:nil="true"/>
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_iFitHZ_kEeSM_YFmrssJ4g" x="425" y="1531" width="5007" height="683"/>
+          </children>
+          <children xmi:type="notation:Node" xmi:id="_iFitHp_kEeSM_YFmrssJ4g" type="skcircle">
+            <children xmi:type="notation:Node" xmi:id="_iFitH5_kEeSM_YFmrssJ4g" type="skshapes">
+              <styles xmi:type="notation:DrawerStyle" xmi:id="_iFitIJ_kEeSM_YFmrssJ4g"/>
+              <styles xmi:type="notation:TitleStyle" xmi:id="_iFitIZ_kEeSM_YFmrssJ4g"/>
+              <styles xmi:type="notation:DrawerStyle" xmi:id="_iFitIp_kEeSM_YFmrssJ4g"/>
+              <styles xmi:type="notation:TitleStyle" xmi:id="_iFitI5_kEeSM_YFmrssJ4g"/>
+              <element xsi:nil="true"/>
+            </children>
+            <children xmi:type="notation:Node" xmi:id="_iFitJJ_kEeSM_YFmrssJ4g" type="skdescription">
+              <element xsi:nil="true"/>
+            </children>
+            <styles xmi:type="notation:ShapeStyle" xmi:id="_iFitJZ_kEeSM_YFmrssJ4g" description="ACT_C5_LIQL: Ligar Liquidificador" transparency="0" lineWidth="3" roundedBendpointsRadius="12"/>
+            <styles xmi:type="notation:LineTypeStyle" xmi:id="_iFitJp_kEeSM_YFmrssJ4g"/>
+            <styles xmi:type="SketchNotation:SketchStyle" xmi:id="_iFitJ5_kEeSM_YFmrssJ4g">
+              <visualizedFromList>platform:/resource/TTair7.0_Unstable/DOC/TTAirHouse.sketch#_BtoYc5_eEeSM_YFmrssJ4g</visualizedFromList>
+              <visualizedFromNameList>TTAirHouse.sketch</visualizedFromNameList>
+            </styles>
+            <styles xmi:type="notation:RoundedCornersStyle" xmi:id="_iFitKJ_kEeSM_YFmrssJ4g"/>
+            <styles xmi:type="notation:TextStyle" xmi:id="_iFitKZ_kEeSM_YFmrssJ4g" textAlignment="Center"/>
+            <element xsi:nil="true"/>
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_iFitKp_kEeSM_YFmrssJ4g" x="367" y="3371" width="6172" height="619"/>
+          </children>
+          <children xmi:type="notation:Node" xmi:id="_iFitK5_kEeSM_YFmrssJ4g" type="skcircle">
+            <children xmi:type="notation:Node" xmi:id="_iFitLJ_kEeSM_YFmrssJ4g" type="skshapes">
+              <styles xmi:type="notation:DrawerStyle" xmi:id="_iFitLZ_kEeSM_YFmrssJ4g"/>
+              <styles xmi:type="notation:TitleStyle" xmi:id="_iFitLp_kEeSM_YFmrssJ4g"/>
+              <styles xmi:type="notation:DrawerStyle" xmi:id="_iFitL5_kEeSM_YFmrssJ4g"/>
+              <styles xmi:type="notation:TitleStyle" xmi:id="_iFitMJ_kEeSM_YFmrssJ4g"/>
+              <element xsi:nil="true"/>
+            </children>
+            <children xmi:type="notation:Node" xmi:id="_iFitMZ_kEeSM_YFmrssJ4g" type="skdescription">
+              <element xsi:nil="true"/>
+            </children>
+            <styles xmi:type="notation:ShapeStyle" xmi:id="_iFitMp_kEeSM_YFmrssJ4g" description="ACT_C5_LIQD: Desligar Liquidificador" transparency="0" lineWidth="3" roundedBendpointsRadius="12"/>
+            <styles xmi:type="notation:LineTypeStyle" xmi:id="_iFitM5_kEeSM_YFmrssJ4g"/>
+            <styles xmi:type="SketchNotation:SketchStyle" xmi:id="_iFitNJ_kEeSM_YFmrssJ4g">
+              <visualizedFromList>platform:/resource/TTair7.0_Unstable/DOC/TTAirHouse.sketch#_BtoYgJ_eEeSM_YFmrssJ4g</visualizedFromList>
+              <visualizedFromNameList>TTAirHouse.sketch</visualizedFromNameList>
+            </styles>
+            <styles xmi:type="notation:RoundedCornersStyle" xmi:id="_iFitNZ_kEeSM_YFmrssJ4g"/>
+            <styles xmi:type="notation:TextStyle" xmi:id="_iFitNp_kEeSM_YFmrssJ4g" textAlignment="Center"/>
+            <element xsi:nil="true"/>
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_iFitN5_kEeSM_YFmrssJ4g" x="278" y="3928" width="6741" height="597"/>
+          </children>
+          <children xmi:type="notation:Node" xmi:id="_ibFzgJ_mEeSM_YFmrssJ4g" type="skcircle">
+            <children xmi:type="notation:Node" xmi:id="_ibFzgZ_mEeSM_YFmrssJ4g" type="skshapes">
+              <styles xmi:type="notation:DrawerStyle" xmi:id="_ibFzgp_mEeSM_YFmrssJ4g"/>
+              <styles xmi:type="notation:TitleStyle" xmi:id="_ibFzg5_mEeSM_YFmrssJ4g"/>
+              <styles xmi:type="notation:DrawerStyle" xmi:id="_ibFzhJ_mEeSM_YFmrssJ4g"/>
+              <styles xmi:type="notation:TitleStyle" xmi:id="_ibFzhZ_mEeSM_YFmrssJ4g"/>
+              <element xsi:nil="true"/>
+            </children>
+            <children xmi:type="notation:Node" xmi:id="_ibFzhp_mEeSM_YFmrssJ4g" type="skdescription">
+              <element xsi:nil="true"/>
+            </children>
+            <styles xmi:type="notation:ShapeStyle" xmi:id="_ibFzh5_mEeSM_YFmrssJ4g" description="ACT_C5_LUZL: Ligar LUZ" transparency="0" lineWidth="3" roundedBendpointsRadius="12"/>
+            <styles xmi:type="notation:LineTypeStyle" xmi:id="_ibFziJ_mEeSM_YFmrssJ4g"/>
+            <styles xmi:type="SketchNotation:SketchStyle" xmi:id="_ibFziZ_mEeSM_YFmrssJ4g">
+              <visualizedFromList>platform:/resource/TTair7.0_Unstable/DOC/TTAirHouse.sketch#_BtoYp5_eEeSM_YFmrssJ4g</visualizedFromList>
+              <visualizedFromNameList>TTAirHouse.sketch</visualizedFromNameList>
+            </styles>
+            <styles xmi:type="notation:RoundedCornersStyle" xmi:id="_ibFzip_mEeSM_YFmrssJ4g"/>
+            <styles xmi:type="notation:TextStyle" xmi:id="_ibFzi5_mEeSM_YFmrssJ4g" textAlignment="Center"/>
+            <element xsi:nil="true"/>
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_ibFzjJ_mEeSM_YFmrssJ4g" x="451" y="935" width="4669" height="662"/>
+          </children>
+          <styles xmi:type="notation:DrawerStyle" xmi:id="_iFitOJ_kEeSM_YFmrssJ4g"/>
+          <styles xmi:type="notation:TitleStyle" xmi:id="_iFitOZ_kEeSM_YFmrssJ4g"/>
+          <styles xmi:type="notation:DrawerStyle" xmi:id="_iFitOp_kEeSM_YFmrssJ4g"/>
+          <styles xmi:type="notation:TitleStyle" xmi:id="_iFitO5_kEeSM_YFmrssJ4g"/>
+          <element xsi:nil="true"/>
+        </children>
+        <children xmi:type="notation:Node" xmi:id="_iFitPJ_kEeSM_YFmrssJ4g" type="skdescription">
+          <element xsi:nil="true"/>
+        </children>
+        <styles xmi:type="notation:ShapeStyle" xmi:id="_iFitPZ_kEeSM_YFmrssJ4g" description="Actions Cômodo 5" transparency="0" lineWidth="3" roundedBendpointsRadius="12"/>
+        <styles xmi:type="notation:LineTypeStyle" xmi:id="_iFitPp_kEeSM_YFmrssJ4g"/>
+        <styles xmi:type="SketchNotation:SketchStyle" xmi:id="_iFitP5_kEeSM_YFmrssJ4g" expandWidth="7239" expandHeight="5545">
+          <visualizedFromList>platform:/resource/TTair7.0_Unstable/DOC/TTAirHouse.sketch#_BtoYcZ_eEeSM_YFmrssJ4g</visualizedFromList>
+          <visualizedFromNameList>TTAirHouse.sketch</visualizedFromNameList>
+        </styles>
+        <styles xmi:type="notation:RoundedCornersStyle" xmi:id="_iFitQJ_kEeSM_YFmrssJ4g"/>
+        <styles xmi:type="notation:TextStyle" xmi:id="_iFitQZ_kEeSM_YFmrssJ4g" textAlignment="Center"/>
+        <element xsi:nil="true"/>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_iFitQp_kEeSM_YFmrssJ4g" x="23401" y="660" width="7366" height="5545"/>
+      </children>
+      <children xmi:type="notation:Node" xmi:id="_iFitQ5_kEeSM_YFmrssJ4g" type="skrectangle">
+        <children xmi:type="notation:Node" xmi:id="_iFitRJ_kEeSM_YFmrssJ4g" type="skshapes">
+          <children xmi:type="notation:Node" xmi:id="_iFitRZ_kEeSM_YFmrssJ4g" type="skcircle">
+            <children xmi:type="notation:Node" xmi:id="_iFitRp_kEeSM_YFmrssJ4g" type="skshapes">
+              <styles xmi:type="notation:DrawerStyle" xmi:id="_iFitR5_kEeSM_YFmrssJ4g"/>
+              <styles xmi:type="notation:TitleStyle" xmi:id="_iFitSJ_kEeSM_YFmrssJ4g"/>
+              <styles xmi:type="notation:DrawerStyle" xmi:id="_iFitSZ_kEeSM_YFmrssJ4g"/>
+              <styles xmi:type="notation:TitleStyle" xmi:id="_iFitSp_kEeSM_YFmrssJ4g"/>
+              <element xsi:nil="true"/>
+            </children>
+            <children xmi:type="notation:Node" xmi:id="_iFitS5_kEeSM_YFmrssJ4g" type="skdescription">
+              <element xsi:nil="true"/>
+            </children>
+            <styles xmi:type="notation:ShapeStyle" xmi:id="_iFitTJ_kEeSM_YFmrssJ4g" description="ACT_C4_ABAD: Desligar Abajur" transparency="0" lineWidth="3" roundedBendpointsRadius="12"/>
+            <styles xmi:type="notation:LineTypeStyle" xmi:id="_iFitTZ_kEeSM_YFmrssJ4g"/>
+            <styles xmi:type="SketchNotation:SketchStyle" xmi:id="_iFitTp_kEeSM_YFmrssJ4g">
+              <visualizedFromList>platform:/resource/TTair7.0_Unstable/DOC/TTAirHouse.sketch#_9X4Dsp_eEeSM_YFmrssJ4g</visualizedFromList>
+              <visualizedFromNameList>TTAirHouse.sketch</visualizedFromNameList>
+            </styles>
+            <styles xmi:type="notation:RoundedCornersStyle" xmi:id="_iFitT5_kEeSM_YFmrssJ4g"/>
+            <styles xmi:type="notation:TextStyle" xmi:id="_iFitUJ_kEeSM_YFmrssJ4g" textAlignment="Center"/>
+            <element xsi:nil="true"/>
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_iFitUZ_kEeSM_YFmrssJ4g" x="11" y="2769" width="6447" height="620"/>
+          </children>
+          <children xmi:type="notation:Node" xmi:id="_iFitUp_kEeSM_YFmrssJ4g" type="skcircle">
+            <children xmi:type="notation:Node" xmi:id="_iFitU5_kEeSM_YFmrssJ4g" type="skshapes">
+              <styles xmi:type="notation:DrawerStyle" xmi:id="_iFitVJ_kEeSM_YFmrssJ4g"/>
+              <styles xmi:type="notation:TitleStyle" xmi:id="_iFitVZ_kEeSM_YFmrssJ4g"/>
+              <styles xmi:type="notation:DrawerStyle" xmi:id="_iFitVp_kEeSM_YFmrssJ4g"/>
+              <styles xmi:type="notation:TitleStyle" xmi:id="_iFitV5_kEeSM_YFmrssJ4g"/>
+              <element xsi:nil="true"/>
+            </children>
+            <children xmi:type="notation:Node" xmi:id="_iFitWJ_kEeSM_YFmrssJ4g" type="skdescription">
+              <element xsi:nil="true"/>
+            </children>
+            <styles xmi:type="notation:ShapeStyle" xmi:id="_iFitWZ_kEeSM_YFmrssJ4g" description="ACT_C4_ABAL: Ligar Abajur" transparency="0" lineWidth="3" roundedBendpointsRadius="12"/>
+            <styles xmi:type="notation:LineTypeStyle" xmi:id="_iFitWp_kEeSM_YFmrssJ4g"/>
+            <styles xmi:type="SketchNotation:SketchStyle" xmi:id="_iFitW5_kEeSM_YFmrssJ4g">
+              <visualizedFromList>platform:/resource/TTair7.0_Unstable/DOC/TTAirHouse.sketch#_9X4Dv5_eEeSM_YFmrssJ4g</visualizedFromList>
+              <visualizedFromNameList>TTAirHouse.sketch</visualizedFromNameList>
+            </styles>
+            <styles xmi:type="notation:RoundedCornersStyle" xmi:id="_iFitXJ_kEeSM_YFmrssJ4g"/>
+            <styles xmi:type="notation:TextStyle" xmi:id="_iFitXZ_kEeSM_YFmrssJ4g" textAlignment="Center"/>
+            <element xsi:nil="true"/>
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_iFitXp_kEeSM_YFmrssJ4g" x="21" y="2131" width="5854" height="641"/>
+          </children>
+          <children xmi:type="notation:Node" xmi:id="_iFitX5_kEeSM_YFmrssJ4g" type="skcircle">
+            <children xmi:type="notation:Node" xmi:id="_iFitYJ_kEeSM_YFmrssJ4g" type="skshapes">
+              <styles xmi:type="notation:DrawerStyle" xmi:id="_iFitYZ_kEeSM_YFmrssJ4g"/>
+              <styles xmi:type="notation:TitleStyle" xmi:id="_iFitYp_kEeSM_YFmrssJ4g"/>
+              <styles xmi:type="notation:DrawerStyle" xmi:id="_iFitY5_kEeSM_YFmrssJ4g"/>
+              <styles xmi:type="notation:TitleStyle" xmi:id="_iFitZJ_kEeSM_YFmrssJ4g"/>
+              <element xsi:nil="true"/>
+            </children>
+            <children xmi:type="notation:Node" xmi:id="_iFitZZ_kEeSM_YFmrssJ4g" type="skdescription">
+              <element xsi:nil="true"/>
+            </children>
+            <styles xmi:type="notation:ShapeStyle" xmi:id="_iFitZp_kEeSM_YFmrssJ4g" description="ACT_C4_LUZL: Ligar LUZ" transparency="0" lineWidth="3" roundedBendpointsRadius="12"/>
+            <styles xmi:type="notation:LineTypeStyle" xmi:id="_iFitZ5_kEeSM_YFmrssJ4g"/>
+            <styles xmi:type="SketchNotation:SketchStyle" xmi:id="_iFitaJ_kEeSM_YFmrssJ4g">
+              <visualizedFromList>platform:/resource/TTair7.0_Unstable/DOC/TTAirHouse.sketch#_9X4qxJ_eEeSM_YFmrssJ4g</visualizedFromList>
+              <visualizedFromNameList>TTAirHouse.sketch</visualizedFromNameList>
+            </styles>
+            <styles xmi:type="notation:RoundedCornersStyle" xmi:id="_iFitaZ_kEeSM_YFmrssJ4g"/>
+            <styles xmi:type="notation:TextStyle" xmi:id="_iFitap_kEeSM_YFmrssJ4g" textAlignment="Center"/>
+            <element xsi:nil="true"/>
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_iFita5_kEeSM_YFmrssJ4g" x="451" y="935" width="4669" height="662"/>
+          </children>
+          <children xmi:type="notation:Node" xmi:id="_iFitbJ_kEeSM_YFmrssJ4g" type="skcircle">
+            <children xmi:type="notation:Node" xmi:id="_iFitbZ_kEeSM_YFmrssJ4g" type="skshapes">
+              <styles xmi:type="notation:DrawerStyle" xmi:id="_iFitbp_kEeSM_YFmrssJ4g"/>
+              <styles xmi:type="notation:TitleStyle" xmi:id="_iFitb5_kEeSM_YFmrssJ4g"/>
+              <styles xmi:type="notation:DrawerStyle" xmi:id="_iFitcJ_kEeSM_YFmrssJ4g"/>
+              <styles xmi:type="notation:TitleStyle" xmi:id="_iFitcZ_kEeSM_YFmrssJ4g"/>
+              <element xsi:nil="true"/>
+            </children>
+            <children xmi:type="notation:Node" xmi:id="_iFitcp_kEeSM_YFmrssJ4g" type="skdescription">
+              <element xsi:nil="true"/>
+            </children>
+            <styles xmi:type="notation:ShapeStyle" xmi:id="_iFitc5_kEeSM_YFmrssJ4g" description="ACT_C4_LUZD: Desligar TV" transparency="0" lineWidth="3" roundedBendpointsRadius="12"/>
+            <styles xmi:type="notation:LineTypeStyle" xmi:id="_iFitdJ_kEeSM_YFmrssJ4g"/>
+            <styles xmi:type="SketchNotation:SketchStyle" xmi:id="_iFitdZ_kEeSM_YFmrssJ4g">
+              <visualizedFromList>platform:/resource/TTair7.0_Unstable/DOC/TTAirHouse.sketch#_9X4q0Z_eEeSM_YFmrssJ4g</visualizedFromList>
+              <visualizedFromNameList>TTAirHouse.sketch</visualizedFromNameList>
+            </styles>
+            <styles xmi:type="notation:RoundedCornersStyle" xmi:id="_iFitdp_kEeSM_YFmrssJ4g"/>
+            <styles xmi:type="notation:TextStyle" xmi:id="_iFitd5_kEeSM_YFmrssJ4g" textAlignment="Center"/>
+            <element xsi:nil="true"/>
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_iFiteJ_kEeSM_YFmrssJ4g" x="425" y="1531" width="5007" height="683"/>
+          </children>
+          <children xmi:type="notation:Node" xmi:id="_iFiteZ_kEeSM_YFmrssJ4g" type="skcircle">
+            <children xmi:type="notation:Node" xmi:id="_iFitep_kEeSM_YFmrssJ4g" type="skshapes">
+              <styles xmi:type="notation:DrawerStyle" xmi:id="_iFite5_kEeSM_YFmrssJ4g"/>
+              <styles xmi:type="notation:TitleStyle" xmi:id="_iFitfJ_kEeSM_YFmrssJ4g"/>
+              <styles xmi:type="notation:DrawerStyle" xmi:id="_iFitfZ_kEeSM_YFmrssJ4g"/>
+              <styles xmi:type="notation:TitleStyle" xmi:id="_iFitfp_kEeSM_YFmrssJ4g"/>
+              <element xsi:nil="true"/>
+            </children>
+            <children xmi:type="notation:Node" xmi:id="_iFitf5_kEeSM_YFmrssJ4g" type="skdescription">
+              <element xsi:nil="true"/>
+            </children>
+            <styles xmi:type="notation:ShapeStyle" xmi:id="_iFitgJ_kEeSM_YFmrssJ4g" description="ACT_C4_LIQL: Ligar Liquidificador" transparency="0" lineWidth="3" roundedBendpointsRadius="12"/>
+            <styles xmi:type="notation:LineTypeStyle" xmi:id="_iFitgZ_kEeSM_YFmrssJ4g"/>
+            <styles xmi:type="SketchNotation:SketchStyle" xmi:id="_iFitgp_kEeSM_YFmrssJ4g">
+              <visualizedFromList>platform:/resource/TTair7.0_Unstable/DOC/TTAirHouse.sketch#_9X4q3p_eEeSM_YFmrssJ4g</visualizedFromList>
+              <visualizedFromNameList>TTAirHouse.sketch</visualizedFromNameList>
+            </styles>
+            <styles xmi:type="notation:RoundedCornersStyle" xmi:id="_iFitg5_kEeSM_YFmrssJ4g"/>
+            <styles xmi:type="notation:TextStyle" xmi:id="_iFithJ_kEeSM_YFmrssJ4g" textAlignment="Center"/>
+            <element xsi:nil="true"/>
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_iFithZ_kEeSM_YFmrssJ4g" x="367" y="3371" width="6172" height="619"/>
+          </children>
+          <children xmi:type="notation:Node" xmi:id="_iFithp_kEeSM_YFmrssJ4g" type="skcircle">
+            <children xmi:type="notation:Node" xmi:id="_iFith5_kEeSM_YFmrssJ4g" type="skshapes">
+              <styles xmi:type="notation:DrawerStyle" xmi:id="_iFitiJ_kEeSM_YFmrssJ4g"/>
+              <styles xmi:type="notation:TitleStyle" xmi:id="_iFitiZ_kEeSM_YFmrssJ4g"/>
+              <styles xmi:type="notation:DrawerStyle" xmi:id="_iFitip_kEeSM_YFmrssJ4g"/>
+              <styles xmi:type="notation:TitleStyle" xmi:id="_iFiti5_kEeSM_YFmrssJ4g"/>
+              <element xsi:nil="true"/>
+            </children>
+            <children xmi:type="notation:Node" xmi:id="_iFitjJ_kEeSM_YFmrssJ4g" type="skdescription">
+              <element xsi:nil="true"/>
+            </children>
+            <styles xmi:type="notation:ShapeStyle" xmi:id="_iFitjZ_kEeSM_YFmrssJ4g" description="ACT_C4_LIQD: Desligar Liquidificador" transparency="0" lineWidth="3" roundedBendpointsRadius="12"/>
+            <styles xmi:type="notation:LineTypeStyle" xmi:id="_iFitjp_kEeSM_YFmrssJ4g"/>
+            <styles xmi:type="SketchNotation:SketchStyle" xmi:id="_iFitj5_kEeSM_YFmrssJ4g">
+              <visualizedFromList>platform:/resource/TTair7.0_Unstable/DOC/TTAirHouse.sketch#_9X4q65_eEeSM_YFmrssJ4g</visualizedFromList>
+              <visualizedFromNameList>TTAirHouse.sketch</visualizedFromNameList>
+            </styles>
+            <styles xmi:type="notation:RoundedCornersStyle" xmi:id="_iFitkJ_kEeSM_YFmrssJ4g"/>
+            <styles xmi:type="notation:TextStyle" xmi:id="_iFitkZ_kEeSM_YFmrssJ4g" textAlignment="Center"/>
+            <element xsi:nil="true"/>
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_iFitkp_kEeSM_YFmrssJ4g" x="278" y="3928" width="6741" height="597"/>
+          </children>
+          <styles xmi:type="notation:DrawerStyle" xmi:id="_iFitk5_kEeSM_YFmrssJ4g"/>
+          <styles xmi:type="notation:TitleStyle" xmi:id="_iFitlJ_kEeSM_YFmrssJ4g"/>
+          <styles xmi:type="notation:DrawerStyle" xmi:id="_iFitlZ_kEeSM_YFmrssJ4g"/>
+          <styles xmi:type="notation:TitleStyle" xmi:id="_iFitlp_kEeSM_YFmrssJ4g"/>
+          <element xsi:nil="true"/>
+        </children>
+        <children xmi:type="notation:Node" xmi:id="_iFitl5_kEeSM_YFmrssJ4g" type="skdescription">
+          <element xsi:nil="true"/>
+        </children>
+        <styles xmi:type="notation:ShapeStyle" xmi:id="_iFitmJ_kEeSM_YFmrssJ4g" description="Actions Cômodo 4" transparency="0" lineWidth="3" roundedBendpointsRadius="12"/>
+        <styles xmi:type="notation:LineTypeStyle" xmi:id="_iFitmZ_kEeSM_YFmrssJ4g"/>
+        <styles xmi:type="SketchNotation:SketchStyle" xmi:id="_iFitmp_kEeSM_YFmrssJ4g" expandWidth="7239" expandHeight="5545">
+          <visualizedFromList>platform:/resource/TTair7.0_Unstable/DOC/TTAirHouse.sketch#_9X4DsJ_eEeSM_YFmrssJ4g</visualizedFromList>
+          <visualizedFromNameList>TTAirHouse.sketch</visualizedFromNameList>
+        </styles>
+        <styles xmi:type="notation:RoundedCornersStyle" xmi:id="_iFitm5_kEeSM_YFmrssJ4g"/>
+        <styles xmi:type="notation:TextStyle" xmi:id="_iFitnJ_kEeSM_YFmrssJ4g" textAlignment="Center"/>
+        <element xsi:nil="true"/>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_iFitnZ_kEeSM_YFmrssJ4g" x="15443" y="703" width="7366" height="5545"/>
+      </children>
+      <children xmi:type="notation:Node" xmi:id="_dm4doJ_mEeSM_YFmrssJ4g" type="skrectangle">
+        <children xmi:type="notation:Node" xmi:id="_dm4dp5_mEeSM_YFmrssJ4g" type="skshapes">
+          <children xmi:type="notation:Node" xmi:id="_yNBbMJ_mEeSM_YFmrssJ4g" type="skcircle">
+            <children xmi:type="notation:Node" xmi:id="_yNBbMZ_mEeSM_YFmrssJ4g" type="skshapes">
+              <styles xmi:type="notation:DrawerStyle" xmi:id="_yNBbMp_mEeSM_YFmrssJ4g"/>
+              <styles xmi:type="notation:TitleStyle" xmi:id="_yNBbM5_mEeSM_YFmrssJ4g"/>
+              <styles xmi:type="notation:DrawerStyle" xmi:id="_yNBbNJ_mEeSM_YFmrssJ4g"/>
+              <styles xmi:type="notation:TitleStyle" xmi:id="_yNBbNZ_mEeSM_YFmrssJ4g"/>
+              <element xsi:nil="true"/>
+            </children>
+            <children xmi:type="notation:Node" xmi:id="_yNBbNp_mEeSM_YFmrssJ4g" type="skdescription">
+              <element xsi:nil="true"/>
+            </children>
+            <styles xmi:type="notation:ShapeStyle" xmi:id="_yNBbN5_mEeSM_YFmrssJ4g" description="ACT_Monitor: Show Icon (Lost User)" transparency="0" lineWidth="3" roundedBendpointsRadius="12"/>
+            <styles xmi:type="notation:LineTypeStyle" xmi:id="_yNBbOJ_mEeSM_YFmrssJ4g"/>
+            <styles xmi:type="SketchNotation:SketchStyle" xmi:id="_yNBbOZ_mEeSM_YFmrssJ4g">
+              <visualizedFromList>platform:/resource/TTair7.0_Unstable/DOC/TTAirHouse.sketch#_BtoYp5_eEeSM_YFmrssJ4g</visualizedFromList>
+              <visualizedFromNameList>TTAirHouse.sketch</visualizedFromNameList>
+            </styles>
+            <styles xmi:type="notation:RoundedCornersStyle" xmi:id="_yNBbOp_mEeSM_YFmrssJ4g"/>
+            <styles xmi:type="notation:TextStyle" xmi:id="_yNBbO5_mEeSM_YFmrssJ4g" textAlignment="Center"/>
+            <element xsi:nil="true"/>
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_yNBbPJ_mEeSM_YFmrssJ4g" x="594" y="1322" width="6644" height="633"/>
+          </children>
+          <children xmi:type="notation:Node" xmi:id="_FO8M8J_nEeSM_YFmrssJ4g" type="skcircle">
+            <children xmi:type="notation:Node" xmi:id="_FO8M8Z_nEeSM_YFmrssJ4g" type="skshapes">
+              <styles xmi:type="notation:DrawerStyle" xmi:id="_FO8M8p_nEeSM_YFmrssJ4g"/>
+              <styles xmi:type="notation:TitleStyle" xmi:id="_FO8M85_nEeSM_YFmrssJ4g"/>
+              <styles xmi:type="notation:DrawerStyle" xmi:id="_FO8M9J_nEeSM_YFmrssJ4g"/>
+              <styles xmi:type="notation:TitleStyle" xmi:id="_FO8M9Z_nEeSM_YFmrssJ4g"/>
+              <element xsi:nil="true"/>
+            </children>
+            <children xmi:type="notation:Node" xmi:id="_FO8M9p_nEeSM_YFmrssJ4g" type="skdescription">
+              <element xsi:nil="true"/>
+            </children>
+            <styles xmi:type="notation:ShapeStyle" xmi:id="_FO8M95_nEeSM_YFmrssJ4g" description="ACT_Monitor: Show Icon (New User)" transparency="0" lineWidth="3" roundedBendpointsRadius="12"/>
+            <styles xmi:type="notation:LineTypeStyle" xmi:id="_FO8M-J_nEeSM_YFmrssJ4g"/>
+            <styles xmi:type="SketchNotation:SketchStyle" xmi:id="_FO8M-Z_nEeSM_YFmrssJ4g">
+              <visualizedFromList>platform:/resource/TTair7.0_Unstable/DOC/TTAirHouse.sketch#_BtoYp5_eEeSM_YFmrssJ4g</visualizedFromList>
+              <visualizedFromNameList>TTAirHouse.sketch</visualizedFromNameList>
+            </styles>
+            <styles xmi:type="notation:RoundedCornersStyle" xmi:id="_FO8M-p_nEeSM_YFmrssJ4g"/>
+            <styles xmi:type="notation:TextStyle" xmi:id="_FO8M-5_nEeSM_YFmrssJ4g" textAlignment="Center"/>
+            <element xsi:nil="true"/>
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_FO8M_J_nEeSM_YFmrssJ4g" x="577" y="786" width="6644" height="633"/>
+          </children>
+          <children xmi:type="notation:Node" xmi:id="_BaywcJ_oEeSM_YFmrssJ4g" type="skcircle">
+            <children xmi:type="notation:Node" xmi:id="_BaywcZ_oEeSM_YFmrssJ4g" type="skshapes">
+              <styles xmi:type="notation:DrawerStyle" xmi:id="_Baywcp_oEeSM_YFmrssJ4g"/>
+              <styles xmi:type="notation:TitleStyle" xmi:id="_Baywc5_oEeSM_YFmrssJ4g"/>
+              <styles xmi:type="notation:DrawerStyle" xmi:id="_BaywdJ_oEeSM_YFmrssJ4g"/>
+              <styles xmi:type="notation:TitleStyle" xmi:id="_BaywdZ_oEeSM_YFmrssJ4g"/>
+              <element xsi:nil="true"/>
+            </children>
+            <children xmi:type="notation:Node" xmi:id="_Baywdp_oEeSM_YFmrssJ4g" type="skdescription">
+              <element xsi:nil="true"/>
+            </children>
+            <styles xmi:type="notation:ShapeStyle" xmi:id="_Baywd5_oEeSM_YFmrssJ4g" description="ACT_Monitor: Show Icon House NAV ()" transparency="0" lineWidth="3" roundedBendpointsRadius="12"/>
+            <styles xmi:type="notation:LineTypeStyle" xmi:id="_BayweJ_oEeSM_YFmrssJ4g"/>
+            <styles xmi:type="SketchNotation:SketchStyle" xmi:id="_BayweZ_oEeSM_YFmrssJ4g">
+              <visualizedFromList>platform:/resource/TTair7.0_Unstable/DOC/TTAirHouse.sketch#_BtoYp5_eEeSM_YFmrssJ4g</visualizedFromList>
+              <visualizedFromNameList>TTAirHouse.sketch</visualizedFromNameList>
+            </styles>
+            <styles xmi:type="notation:RoundedCornersStyle" xmi:id="_Baywep_oEeSM_YFmrssJ4g"/>
+            <styles xmi:type="notation:TextStyle" xmi:id="_Baywe5_oEeSM_YFmrssJ4g" textAlignment="Center"/>
+            <element xsi:nil="true"/>
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_BaywfJ_oEeSM_YFmrssJ4g" x="729" y="2773" width="7067" height="717"/>
+          </children>
+          <children xmi:type="notation:Node" xmi:id="_b6q2oJ_qEeSM_YFmrssJ4g" type="skcircle">
+            <children xmi:type="notation:Node" xmi:id="_b6q2oZ_qEeSM_YFmrssJ4g" type="skshapes">
+              <styles xmi:type="notation:DrawerStyle" xmi:id="_b6q2op_qEeSM_YFmrssJ4g"/>
+              <styles xmi:type="notation:TitleStyle" xmi:id="_b6q2o5_qEeSM_YFmrssJ4g"/>
+              <styles xmi:type="notation:DrawerStyle" xmi:id="_b6q2pJ_qEeSM_YFmrssJ4g"/>
+              <styles xmi:type="notation:TitleStyle" xmi:id="_b6q2pZ_qEeSM_YFmrssJ4g"/>
+              <element xsi:nil="true"/>
+            </children>
+            <children xmi:type="notation:Node" xmi:id="_b6q2pp_qEeSM_YFmrssJ4g" type="skdescription">
+              <element xsi:nil="true"/>
+            </children>
+            <styles xmi:type="notation:ShapeStyle" xmi:id="_b6q2p5_qEeSM_YFmrssJ4g" description="ACT_Monitor: Show Icon NAV ()" transparency="0" lineWidth="3" roundedBendpointsRadius="12"/>
+            <styles xmi:type="notation:LineTypeStyle" xmi:id="_b6q2qJ_qEeSM_YFmrssJ4g"/>
+            <styles xmi:type="SketchNotation:SketchStyle" xmi:id="_b6q2qZ_qEeSM_YFmrssJ4g">
+              <visualizedFromList>platform:/resource/TTair7.0_Unstable/DOC/TTAirHouse.sketch#_BtoYp5_eEeSM_YFmrssJ4g</visualizedFromList>
+              <visualizedFromNameList>TTAirHouse.sketch</visualizedFromNameList>
+            </styles>
+            <styles xmi:type="notation:RoundedCornersStyle" xmi:id="_b6q2qp_qEeSM_YFmrssJ4g"/>
+            <styles xmi:type="notation:TextStyle" xmi:id="_b6q2q5_qEeSM_YFmrssJ4g" textAlignment="Center"/>
+            <element xsi:nil="true"/>
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_b6q2rJ_qEeSM_YFmrssJ4g" x="293" y="1969" width="6644" height="633"/>
+          </children>
+          <styles xmi:type="notation:DrawerStyle" xmi:id="_dm4dqJ_mEeSM_YFmrssJ4g"/>
+          <styles xmi:type="notation:TitleStyle" xmi:id="_dm4dqZ_mEeSM_YFmrssJ4g"/>
+          <styles xmi:type="notation:DrawerStyle" xmi:id="_dm4dqp_mEeSM_YFmrssJ4g"/>
+          <styles xmi:type="notation:TitleStyle" xmi:id="_dm4dq5_mEeSM_YFmrssJ4g"/>
+          <element xsi:nil="true"/>
+        </children>
+        <children xmi:type="notation:Node" xmi:id="_dm4drJ_mEeSM_YFmrssJ4g" type="skdescription">
+          <element xsi:nil="true"/>
+        </children>
+        <styles xmi:type="notation:ShapeStyle" xmi:id="_dm4doZ_mEeSM_YFmrssJ4g" description="Actions Monitor" transparency="0" lineWidth="3" roundedBendpointsRadius="12"/>
+        <styles xmi:type="notation:LineTypeStyle" xmi:id="_dm4dop_mEeSM_YFmrssJ4g"/>
+        <styles xmi:type="SketchNotation:SketchStyle" xmi:id="_dm4do5_mEeSM_YFmrssJ4g"/>
+        <styles xmi:type="notation:RoundedCornersStyle" xmi:id="_dm4dpJ_mEeSM_YFmrssJ4g"/>
+        <styles xmi:type="notation:TextStyle" xmi:id="_dm4dpZ_mEeSM_YFmrssJ4g" textAlignment="Center"/>
+        <element xsi:nil="true"/>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_dm4dpp_mEeSM_YFmrssJ4g" x="31042" y="605" width="8716" height="6189"/>
+      </children>
+      <styles xmi:type="notation:DrawerStyle" xmi:id="_iFitnp_kEeSM_YFmrssJ4g"/>
+      <styles xmi:type="notation:TitleStyle" xmi:id="_iFitn5_kEeSM_YFmrssJ4g"/>
+      <styles xmi:type="notation:DrawerStyle" xmi:id="_iFitoJ_kEeSM_YFmrssJ4g"/>
+      <styles xmi:type="notation:TitleStyle" xmi:id="_iFitoZ_kEeSM_YFmrssJ4g"/>
+      <element xsi:nil="true"/>
+    </children>
+    <children xmi:type="notation:Node" xmi:id="_iFitop_kEeSM_YFmrssJ4g" type="skdescription">
+      <element xsi:nil="true"/>
+    </children>
+    <styles xmi:type="notation:ShapeStyle" xmi:id="_iFito5_kEeSM_YFmrssJ4g" description="Actions" transparency="0" lineWidth="3" roundedBendpointsRadius="12"/>
+    <styles xmi:type="notation:LineTypeStyle" xmi:id="_iFitpJ_kEeSM_YFmrssJ4g"/>
+    <styles xmi:type="SketchNotation:SketchStyle" xmi:id="_iFitpZ_kEeSM_YFmrssJ4g">
+      <visualizedFromList>platform:/resource/TTair7.0_Unstable/DOC/TTAirHouse.sketch#_FlWi0Z_cEeSM_YFmrssJ4g</visualizedFromList>
+      <visualizedFromNameList>TTAirHouse.sketch</visualizedFromNameList>
+    </styles>
+    <styles xmi:type="notation:RoundedCornersStyle" xmi:id="_iFitpp_kEeSM_YFmrssJ4g"/>
+    <styles xmi:type="notation:TextStyle" xmi:id="_iFitp5_kEeSM_YFmrssJ4g" textAlignment="Center"/>
+    <element xsi:nil="true"/>
+    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_iFitqJ_kEeSM_YFmrssJ4g" x="-22325" y="11037" width="41236" height="9328"/>
+  </children>
+  <children xmi:type="notation:Node" xmi:id="_iFitqZ_kEeSM_YFmrssJ4g" type="skrectangle">
+    <children xmi:type="notation:Node" xmi:id="_iFitqp_kEeSM_YFmrssJ4g" type="skshapes">
+      <children xmi:type="notation:Node" xmi:id="_iFitq5_kEeSM_YFmrssJ4g" type="skrectangle">
+        <children xmi:type="notation:Node" xmi:id="_iFitrJ_kEeSM_YFmrssJ4g" type="skshapes">
+          <children xmi:type="notation:Node" xmi:id="_iFitrZ_kEeSM_YFmrssJ4g" type="sktitle">
+            <children xmi:type="notation:Node" xmi:id="_iFitrp_kEeSM_YFmrssJ4g" type="skshapes">
+              <styles xmi:type="notation:DrawerStyle" xmi:id="_iFitr5_kEeSM_YFmrssJ4g"/>
+              <styles xmi:type="notation:TitleStyle" xmi:id="_iFitsJ_kEeSM_YFmrssJ4g"/>
+              <styles xmi:type="notation:DrawerStyle" xmi:id="_iFitsZ_kEeSM_YFmrssJ4g"/>
+              <styles xmi:type="notation:TitleStyle" xmi:id="_iFitsp_kEeSM_YFmrssJ4g"/>
+              <element xsi:nil="true"/>
+            </children>
+            <children xmi:type="notation:Node" xmi:id="_iFits5_kEeSM_YFmrssJ4g" type="skdescription">
+              <element xsi:nil="true"/>
+            </children>
+            <styles xmi:type="notation:ShapeStyle" xmi:id="_iFittJ_kEeSM_YFmrssJ4g" description="Int_Mouse_Left_DOWN" transparency="0" lineWidth="3" roundedBendpointsRadius="12"/>
+            <styles xmi:type="notation:LineTypeStyle" xmi:id="_iFittZ_kEeSM_YFmrssJ4g"/>
+            <styles xmi:type="SketchNotation:SketchStyle" xmi:id="_iFittp_kEeSM_YFmrssJ4g">
+              <visualizedFromList>platform:/resource/TTair7.0_Unstable/DOC/TTAirHouse.sketch#_UYzMMJ_gEeSM_YFmrssJ4g</visualizedFromList>
+              <visualizedFromNameList>TTAirHouse.sketch</visualizedFromNameList>
+            </styles>
+            <styles xmi:type="notation:RoundedCornersStyle" xmi:id="_iFitt5_kEeSM_YFmrssJ4g"/>
+            <styles xmi:type="notation:TextStyle" xmi:id="_iFituJ_kEeSM_YFmrssJ4g" textAlignment="Center"/>
+            <element xsi:nil="true"/>
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_iFituZ_kEeSM_YFmrssJ4g" x="589" y="1226"/>
+          </children>
+          <children xmi:type="notation:Node" xmi:id="_iFitup_kEeSM_YFmrssJ4g" type="sktitle">
+            <children xmi:type="notation:Node" xmi:id="_iFitu5_kEeSM_YFmrssJ4g" type="skshapes">
+              <styles xmi:type="notation:DrawerStyle" xmi:id="_iFitvJ_kEeSM_YFmrssJ4g"/>
+              <styles xmi:type="notation:TitleStyle" xmi:id="_iFitvZ_kEeSM_YFmrssJ4g"/>
+              <styles xmi:type="notation:DrawerStyle" xmi:id="_iFitvp_kEeSM_YFmrssJ4g"/>
+              <styles xmi:type="notation:TitleStyle" xmi:id="_iFitv5_kEeSM_YFmrssJ4g"/>
+              <element xsi:nil="true"/>
+            </children>
+            <children xmi:type="notation:Node" xmi:id="_iFitwJ_kEeSM_YFmrssJ4g" type="skdescription">
+              <element xsi:nil="true"/>
+            </children>
+            <styles xmi:type="notation:ShapeStyle" xmi:id="_iFitwZ_kEeSM_YFmrssJ4g" description="Int_Mouse_Right_DOWN" transparency="0" lineWidth="3" roundedBendpointsRadius="12"/>
+            <styles xmi:type="notation:LineTypeStyle" xmi:id="_iFitwp_kEeSM_YFmrssJ4g"/>
+            <styles xmi:type="SketchNotation:SketchStyle" xmi:id="_iFitw5_kEeSM_YFmrssJ4g">
+              <visualizedFromList>platform:/resource/TTair7.0_Unstable/DOC/TTAirHouse.sketch#_UYzMPZ_gEeSM_YFmrssJ4g</visualizedFromList>
+              <visualizedFromNameList>TTAirHouse.sketch</visualizedFromNameList>
+            </styles>
+            <styles xmi:type="notation:RoundedCornersStyle" xmi:id="_iFitxJ_kEeSM_YFmrssJ4g"/>
+            <styles xmi:type="notation:TextStyle" xmi:id="_iFitxZ_kEeSM_YFmrssJ4g" textAlignment="Center"/>
+            <element xsi:nil="true"/>
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_iFitxp_kEeSM_YFmrssJ4g" x="571" y="2178"/>
+          </children>
+          <children xmi:type="notation:Node" xmi:id="_iFitx5_kEeSM_YFmrssJ4g" type="sktitle">
+            <children xmi:type="notation:Node" xmi:id="_iFityJ_kEeSM_YFmrssJ4g" type="skshapes">
+              <styles xmi:type="notation:DrawerStyle" xmi:id="_iFityZ_kEeSM_YFmrssJ4g"/>
+              <styles xmi:type="notation:TitleStyle" xmi:id="_iFityp_kEeSM_YFmrssJ4g"/>
+              <styles xmi:type="notation:DrawerStyle" xmi:id="_iFity5_kEeSM_YFmrssJ4g"/>
+              <styles xmi:type="notation:TitleStyle" xmi:id="_iFitzJ_kEeSM_YFmrssJ4g"/>
+              <element xsi:nil="true"/>
+            </children>
+            <children xmi:type="notation:Node" xmi:id="_iFitzZ_kEeSM_YFmrssJ4g" type="skdescription">
+              <element xsi:nil="true"/>
+            </children>
+            <styles xmi:type="notation:ShapeStyle" xmi:id="_iFitzp_kEeSM_YFmrssJ4g" description="Int_Mouse_Right_UP" transparency="0" lineWidth="3" roundedBendpointsRadius="12"/>
+            <styles xmi:type="notation:LineTypeStyle" xmi:id="_iFitz5_kEeSM_YFmrssJ4g"/>
+            <styles xmi:type="SketchNotation:SketchStyle" xmi:id="_iFit0J_kEeSM_YFmrssJ4g">
+              <visualizedFromList>platform:/resource/TTair7.0_Unstable/DOC/TTAirHouse.sketch#_UY8WIJ_gEeSM_YFmrssJ4g</visualizedFromList>
+              <visualizedFromNameList>TTAirHouse.sketch</visualizedFromNameList>
+            </styles>
+            <styles xmi:type="notation:RoundedCornersStyle" xmi:id="_iFit0Z_kEeSM_YFmrssJ4g"/>
+            <styles xmi:type="notation:TextStyle" xmi:id="_iFit0p_kEeSM_YFmrssJ4g" textAlignment="Center"/>
+            <element xsi:nil="true"/>
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_iFit05_kEeSM_YFmrssJ4g" x="656" y="1543" width="4543" height="866"/>
+          </children>
+          <children xmi:type="notation:Node" xmi:id="_iFit1J_kEeSM_YFmrssJ4g" type="sktitle">
+            <children xmi:type="notation:Node" xmi:id="_iFit1Z_kEeSM_YFmrssJ4g" type="skshapes">
+              <styles xmi:type="notation:DrawerStyle" xmi:id="_iFit1p_kEeSM_YFmrssJ4g"/>
+              <styles xmi:type="notation:TitleStyle" xmi:id="_iFit15_kEeSM_YFmrssJ4g"/>
+              <styles xmi:type="notation:DrawerStyle" xmi:id="_iFit2J_kEeSM_YFmrssJ4g"/>
+              <styles xmi:type="notation:TitleStyle" xmi:id="_iFit2Z_kEeSM_YFmrssJ4g"/>
+              <element xsi:nil="true"/>
+            </children>
+            <children xmi:type="notation:Node" xmi:id="_iFit2p_kEeSM_YFmrssJ4g" type="skdescription">
+              <element xsi:nil="true"/>
+            </children>
+            <styles xmi:type="notation:ShapeStyle" xmi:id="_iFit25_kEeSM_YFmrssJ4g" description="Int_Mouse_Left_UP" transparency="0" lineWidth="3" roundedBendpointsRadius="12"/>
+            <styles xmi:type="notation:LineTypeStyle" xmi:id="_iFit3J_kEeSM_YFmrssJ4g"/>
+            <styles xmi:type="SketchNotation:SketchStyle" xmi:id="_iFit3Z_kEeSM_YFmrssJ4g">
+              <visualizedFromList>platform:/resource/TTair7.0_Unstable/DOC/TTAirHouse.sketch#_UY8WLZ_gEeSM_YFmrssJ4g</visualizedFromList>
+              <visualizedFromNameList>TTAirHouse.sketch</visualizedFromNameList>
+            </styles>
+            <styles xmi:type="notation:RoundedCornersStyle" xmi:id="_iFit3p_kEeSM_YFmrssJ4g"/>
+            <styles xmi:type="notation:TextStyle" xmi:id="_iFit35_kEeSM_YFmrssJ4g" textAlignment="Center"/>
+            <element xsi:nil="true"/>
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_iFit4J_kEeSM_YFmrssJ4g" x="632" y="507" width="4543" height="866"/>
+          </children>
+          <children xmi:type="notation:Node" xmi:id="_iFit4Z_kEeSM_YFmrssJ4g" type="sktitle">
+            <children xmi:type="notation:Node" xmi:id="_iFit4p_kEeSM_YFmrssJ4g" type="skshapes">
+              <styles xmi:type="notation:DrawerStyle" xmi:id="_iFit45_kEeSM_YFmrssJ4g"/>
+              <styles xmi:type="notation:TitleStyle" xmi:id="_iFit5J_kEeSM_YFmrssJ4g"/>
+              <styles xmi:type="notation:DrawerStyle" xmi:id="_iFit5Z_kEeSM_YFmrssJ4g"/>
+              <styles xmi:type="notation:TitleStyle" xmi:id="_iFit5p_kEeSM_YFmrssJ4g"/>
+              <element xsi:nil="true"/>
+            </children>
+            <children xmi:type="notation:Node" xmi:id="_iFit55_kEeSM_YFmrssJ4g" type="skdescription">
+              <element xsi:nil="true"/>
+            </children>
+            <styles xmi:type="notation:ShapeStyle" xmi:id="_iFit6J_kEeSM_YFmrssJ4g" description="Int_Mouse_CLICK" transparency="0" lineWidth="3" roundedBendpointsRadius="12"/>
+            <styles xmi:type="notation:LineTypeStyle" xmi:id="_iFit6Z_kEeSM_YFmrssJ4g"/>
+            <styles xmi:type="SketchNotation:SketchStyle" xmi:id="_iFit6p_kEeSM_YFmrssJ4g">
+              <visualizedFromList>platform:/resource/TTair7.0_Unstable/DOC/TTAirHouse.sketch#_0D_9MJ_hEeSM_YFmrssJ4g</visualizedFromList>
+              <visualizedFromNameList>TTAirHouse.sketch</visualizedFromNameList>
+            </styles>
+            <styles xmi:type="notation:RoundedCornersStyle" xmi:id="_iFit65_kEeSM_YFmrssJ4g"/>
+            <styles xmi:type="notation:TextStyle" xmi:id="_iFit7J_kEeSM_YFmrssJ4g" textAlignment="Center"/>
+            <element xsi:nil="true"/>
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_iFit7Z_kEeSM_YFmrssJ4g" x="571" y="2665"/>
+          </children>
+          <styles xmi:type="notation:DrawerStyle" xmi:id="_iFit7p_kEeSM_YFmrssJ4g"/>
+          <styles xmi:type="notation:TitleStyle" xmi:id="_iFit75_kEeSM_YFmrssJ4g"/>
+          <styles xmi:type="notation:DrawerStyle" xmi:id="_iFit8J_kEeSM_YFmrssJ4g"/>
+          <styles xmi:type="notation:TitleStyle" xmi:id="_iFit8Z_kEeSM_YFmrssJ4g"/>
+          <element xsi:nil="true"/>
+        </children>
+        <children xmi:type="notation:Node" xmi:id="_iFit8p_kEeSM_YFmrssJ4g" type="skdescription">
+          <element xsi:nil="true"/>
+        </children>
+        <styles xmi:type="notation:ShapeStyle" xmi:id="_iFit85_kEeSM_YFmrssJ4g" description="Mouse" transparency="0" lineWidth="3" roundedBendpointsRadius="12"/>
+        <styles xmi:type="notation:LineTypeStyle" xmi:id="_iFit9J_kEeSM_YFmrssJ4g"/>
+        <styles xmi:type="SketchNotation:SketchStyle" xmi:id="_iFit9Z_kEeSM_YFmrssJ4g">
+          <visualizedFromList>platform:/resource/TTair7.0_Unstable/DOC/TTAirHouse.sketch#_CCcOAJ_iEeSM_YFmrssJ4g</visualizedFromList>
+          <visualizedFromNameList>TTAirHouse.sketch</visualizedFromNameList>
+        </styles>
+        <styles xmi:type="notation:RoundedCornersStyle" xmi:id="_iFit9p_kEeSM_YFmrssJ4g"/>
+        <styles xmi:type="notation:TextStyle" xmi:id="_iFit95_kEeSM_YFmrssJ4g" textAlignment="Center"/>
+        <element xsi:nil="true"/>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_iFit-J_kEeSM_YFmrssJ4g" x="140" y="1206" width="6499" height="3640"/>
+      </children>
+      <children xmi:type="notation:Node" xmi:id="_iFit-Z_kEeSM_YFmrssJ4g" type="skrectangle">
+        <children xmi:type="notation:Node" xmi:id="_iFit-p_kEeSM_YFmrssJ4g" type="skshapes">
+          <children xmi:type="notation:Node" xmi:id="_iFr2Ip_kEeSM_YFmrssJ4g" type="sktitle">
+            <children xmi:type="notation:Node" xmi:id="_iFr2I5_kEeSM_YFmrssJ4g" type="skshapes">
+              <styles xmi:type="notation:DrawerStyle" xmi:id="_iFr2JJ_kEeSM_YFmrssJ4g"/>
+              <styles xmi:type="notation:TitleStyle" xmi:id="_iFr2JZ_kEeSM_YFmrssJ4g"/>
+              <styles xmi:type="notation:DrawerStyle" xmi:id="_iFr2Jp_kEeSM_YFmrssJ4g"/>
+              <styles xmi:type="notation:TitleStyle" xmi:id="_iFr2J5_kEeSM_YFmrssJ4g"/>
+              <element xsi:nil="true"/>
+            </children>
+            <children xmi:type="notation:Node" xmi:id="_iFr2KJ_kEeSM_YFmrssJ4g" type="skdescription">
+              <element xsi:nil="true"/>
+            </children>
+            <styles xmi:type="notation:ShapeStyle" xmi:id="_iFr2KZ_kEeSM_YFmrssJ4g" description="Int_Hand_Right_DOWN" transparency="0" lineWidth="3" roundedBendpointsRadius="12"/>
+            <styles xmi:type="notation:LineTypeStyle" xmi:id="_iFr2Kp_kEeSM_YFmrssJ4g"/>
+            <styles xmi:type="SketchNotation:SketchStyle" xmi:id="_iFr2K5_kEeSM_YFmrssJ4g">
+              <visualizedFromList>platform:/resource/TTair7.0_Unstable/DOC/TTAirHouse.sketch#_QQwG0J_iEeSM_YFmrssJ4g</visualizedFromList>
+              <visualizedFromNameList>TTAirHouse.sketch</visualizedFromNameList>
+            </styles>
+            <styles xmi:type="notation:RoundedCornersStyle" xmi:id="_iFr2LJ_kEeSM_YFmrssJ4g"/>
+            <styles xmi:type="notation:TextStyle" xmi:id="_iFr2LZ_kEeSM_YFmrssJ4g" textAlignment="Center"/>
+            <element xsi:nil="true"/>
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_iFr2Lp_kEeSM_YFmrssJ4g" x="161" y="1903"/>
+          </children>
+          <children xmi:type="notation:Node" xmi:id="_iFiuFZ_kEeSM_YFmrssJ4g" type="sktitle">
+            <children xmi:type="notation:Node" xmi:id="_iFiuFp_kEeSM_YFmrssJ4g" type="skshapes">
+              <styles xmi:type="notation:DrawerStyle" xmi:id="_iFiuF5_kEeSM_YFmrssJ4g"/>
+              <styles xmi:type="notation:TitleStyle" xmi:id="_iFiuGJ_kEeSM_YFmrssJ4g"/>
+              <styles xmi:type="notation:DrawerStyle" xmi:id="_iFiuGZ_kEeSM_YFmrssJ4g"/>
+              <styles xmi:type="notation:TitleStyle" xmi:id="_iFiuGp_kEeSM_YFmrssJ4g"/>
+              <element xsi:nil="true"/>
+            </children>
+            <children xmi:type="notation:Node" xmi:id="_iFiuG5_kEeSM_YFmrssJ4g" type="skdescription">
+              <element xsi:nil="true"/>
+            </children>
+            <styles xmi:type="notation:ShapeStyle" xmi:id="_iFiuHJ_kEeSM_YFmrssJ4g" description="Int_Hand_Left_UP" transparency="0" lineWidth="3" roundedBendpointsRadius="12"/>
+            <styles xmi:type="notation:LineTypeStyle" xmi:id="_iFiuHZ_kEeSM_YFmrssJ4g"/>
+            <styles xmi:type="SketchNotation:SketchStyle" xmi:id="_iFiuHp_kEeSM_YFmrssJ4g">
+              <visualizedFromList>platform:/resource/TTair7.0_Unstable/DOC/TTAirHouse.sketch#_yeOusJ_gEeSM_YFmrssJ4g</visualizedFromList>
+              <visualizedFromNameList>TTAirHouse.sketch</visualizedFromNameList>
+            </styles>
+            <styles xmi:type="notation:RoundedCornersStyle" xmi:id="_iFiuH5_kEeSM_YFmrssJ4g"/>
+            <styles xmi:type="notation:TextStyle" xmi:id="_iFiuIJ_kEeSM_YFmrssJ4g" textAlignment="Center"/>
+            <element xsi:nil="true"/>
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_iFiuIZ_kEeSM_YFmrssJ4g" x="79" y="437" width="4543" height="866"/>
+          </children>
+          <children xmi:type="notation:Node" xmi:id="_iFiuIp_kEeSM_YFmrssJ4g" type="sktitle">
+            <children xmi:type="notation:Node" xmi:id="_iFiuI5_kEeSM_YFmrssJ4g" type="skshapes">
+              <styles xmi:type="notation:DrawerStyle" xmi:id="_iFiuJJ_kEeSM_YFmrssJ4g"/>
+              <styles xmi:type="notation:TitleStyle" xmi:id="_iFiuJZ_kEeSM_YFmrssJ4g"/>
+              <styles xmi:type="notation:DrawerStyle" xmi:id="_iFiuJp_kEeSM_YFmrssJ4g"/>
+              <styles xmi:type="notation:TitleStyle" xmi:id="_iFiuJ5_kEeSM_YFmrssJ4g"/>
+              <element xsi:nil="true"/>
+            </children>
+            <children xmi:type="notation:Node" xmi:id="_iFiuKJ_kEeSM_YFmrssJ4g" type="skdescription">
+              <element xsi:nil="true"/>
+            </children>
+            <styles xmi:type="notation:ShapeStyle" xmi:id="_iFiuKZ_kEeSM_YFmrssJ4g" description="Int_Hand_Left_DOWN" transparency="0" lineWidth="3" roundedBendpointsRadius="12"/>
+            <styles xmi:type="notation:LineTypeStyle" xmi:id="_iFiuKp_kEeSM_YFmrssJ4g"/>
+            <styles xmi:type="SketchNotation:SketchStyle" xmi:id="_iFiuK5_kEeSM_YFmrssJ4g">
+              <visualizedFromList>platform:/resource/TTair7.0_Unstable/DOC/TTAirHouse.sketch#_yeOuvZ_gEeSM_YFmrssJ4g</visualizedFromList>
+              <visualizedFromNameList>TTAirHouse.sketch</visualizedFromNameList>
+            </styles>
+            <styles xmi:type="notation:RoundedCornersStyle" xmi:id="_iFiuLJ_kEeSM_YFmrssJ4g"/>
+            <styles xmi:type="notation:TextStyle" xmi:id="_iFr2IJ_kEeSM_YFmrssJ4g" textAlignment="Center"/>
+            <element xsi:nil="true"/>
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_iFr2IZ_kEeSM_YFmrssJ4g" x="139" y="1067"/>
+          </children>
+          <children xmi:type="notation:Node" xmi:id="_iFiuCJ_kEeSM_YFmrssJ4g" type="sktitle">
+            <children xmi:type="notation:Node" xmi:id="_iFiuCZ_kEeSM_YFmrssJ4g" type="skshapes">
+              <styles xmi:type="notation:DrawerStyle" xmi:id="_iFiuCp_kEeSM_YFmrssJ4g"/>
+              <styles xmi:type="notation:TitleStyle" xmi:id="_iFiuC5_kEeSM_YFmrssJ4g"/>
+              <styles xmi:type="notation:DrawerStyle" xmi:id="_iFiuDJ_kEeSM_YFmrssJ4g"/>
+              <styles xmi:type="notation:TitleStyle" xmi:id="_iFiuDZ_kEeSM_YFmrssJ4g"/>
+              <element xsi:nil="true"/>
+            </children>
+            <children xmi:type="notation:Node" xmi:id="_iFiuDp_kEeSM_YFmrssJ4g" type="skdescription">
+              <element xsi:nil="true"/>
+            </children>
+            <styles xmi:type="notation:ShapeStyle" xmi:id="_iFiuD5_kEeSM_YFmrssJ4g" description="Int_Hand_Right_UP" transparency="0" lineWidth="3" roundedBendpointsRadius="12"/>
+            <styles xmi:type="notation:LineTypeStyle" xmi:id="_iFiuEJ_kEeSM_YFmrssJ4g"/>
+            <styles xmi:type="SketchNotation:SketchStyle" xmi:id="_iFiuEZ_kEeSM_YFmrssJ4g">
+              <visualizedFromList>platform:/resource/TTair7.0_Unstable/DOC/TTAirHouse.sketch#_88X-AJ_fEeSM_YFmrssJ4g</visualizedFromList>
+              <visualizedFromNameList>TTAirHouse.sketch</visualizedFromNameList>
+            </styles>
+            <styles xmi:type="notation:RoundedCornersStyle" xmi:id="_iFiuEp_kEeSM_YFmrssJ4g"/>
+            <styles xmi:type="notation:TextStyle" xmi:id="_iFiuE5_kEeSM_YFmrssJ4g" textAlignment="Center"/>
+            <element xsi:nil="true"/>
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_iFiuFJ_kEeSM_YFmrssJ4g" x="120" y="1294" width="4543" height="866"/>
+          </children>
+          <children xmi:type="notation:Node" xmi:id="_zEVy0J_oEeSM_YFmrssJ4g" type="sktitle">
+            <children xmi:type="notation:Node" xmi:id="_zEVy0Z_oEeSM_YFmrssJ4g" type="skshapes">
+              <styles xmi:type="notation:DrawerStyle" xmi:id="_zEVy0p_oEeSM_YFmrssJ4g"/>
+              <styles xmi:type="notation:TitleStyle" xmi:id="_zEVy05_oEeSM_YFmrssJ4g"/>
+              <styles xmi:type="notation:DrawerStyle" xmi:id="_zEVy1J_oEeSM_YFmrssJ4g"/>
+              <styles xmi:type="notation:TitleStyle" xmi:id="_zEVy1Z_oEeSM_YFmrssJ4g"/>
+              <element xsi:nil="true"/>
+            </children>
+            <children xmi:type="notation:Node" xmi:id="_zEVy1p_oEeSM_YFmrssJ4g" type="skdescription">
+              <element xsi:nil="true"/>
+            </children>
+            <styles xmi:type="notation:ShapeStyle" xmi:id="_zEVy15_oEeSM_YFmrssJ4g" description="Int_Hand_Moving_DOWN_UP" transparency="0" lineWidth="3" roundedBendpointsRadius="12"/>
+            <styles xmi:type="notation:LineTypeStyle" xmi:id="_zEVy2J_oEeSM_YFmrssJ4g"/>
+            <styles xmi:type="SketchNotation:SketchStyle" xmi:id="_zEVy2Z_oEeSM_YFmrssJ4g">
+              <visualizedFromList>platform:/resource/TTair7.0_Unstable/DOC/TTAirHouse.sketch#_VBtUYJ_iEeSM_YFmrssJ4g</visualizedFromList>
+              <visualizedFromNameList>TTAirHouse.sketch</visualizedFromNameList>
+            </styles>
+            <styles xmi:type="notation:RoundedCornersStyle" xmi:id="_zEVy2p_oEeSM_YFmrssJ4g"/>
+            <styles xmi:type="notation:TextStyle" xmi:id="_zEVy25_oEeSM_YFmrssJ4g" textAlignment="Center"/>
+            <element xsi:nil="true"/>
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_zEVy3J_oEeSM_YFmrssJ4g" x="547" y="2850"/>
+          </children>
+          <children xmi:type="notation:Node" xmi:id="_zEfj0J_oEeSM_YFmrssJ4g" type="sktitle">
+            <children xmi:type="notation:Node" xmi:id="_zEfj0Z_oEeSM_YFmrssJ4g" type="skshapes">
+              <styles xmi:type="notation:DrawerStyle" xmi:id="_zEfj0p_oEeSM_YFmrssJ4g"/>
+              <styles xmi:type="notation:TitleStyle" xmi:id="_zEfj05_oEeSM_YFmrssJ4g"/>
+              <styles xmi:type="notation:DrawerStyle" xmi:id="_zEfj1J_oEeSM_YFmrssJ4g"/>
+              <styles xmi:type="notation:TitleStyle" xmi:id="_zEfj1Z_oEeSM_YFmrssJ4g"/>
+              <element xsi:nil="true"/>
+            </children>
+            <children xmi:type="notation:Node" xmi:id="_zEfj1p_oEeSM_YFmrssJ4g" type="skdescription">
+              <element xsi:nil="true"/>
+            </children>
+            <styles xmi:type="notation:ShapeStyle" xmi:id="_zEfj15_oEeSM_YFmrssJ4g" description="Int_Hand_Moving_UP_DOWN" transparency="0" lineWidth="3" roundedBendpointsRadius="12"/>
+            <styles xmi:type="notation:LineTypeStyle" xmi:id="_zEfj2J_oEeSM_YFmrssJ4g"/>
+            <styles xmi:type="SketchNotation:SketchStyle" xmi:id="_zEfj2Z_oEeSM_YFmrssJ4g">
+              <visualizedFromList>platform:/resource/TTair7.0_Unstable/DOC/TTAirHouse.sketch#_XUcMAJ_iEeSM_YFmrssJ4g</visualizedFromList>
+              <visualizedFromNameList>TTAirHouse.sketch</visualizedFromNameList>
+            </styles>
+            <styles xmi:type="notation:RoundedCornersStyle" xmi:id="_zEfj2p_oEeSM_YFmrssJ4g"/>
+            <styles xmi:type="notation:TextStyle" xmi:id="_zEfj25_oEeSM_YFmrssJ4g" textAlignment="Center"/>
+            <element xsi:nil="true"/>
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_zEfj3J_oEeSM_YFmrssJ4g" x="477" y="3400"/>
+          </children>
+          <children xmi:type="notation:Node" xmi:id="_ySV3sJ_0EeSM_YFmrssJ4g" type="sktitle">
+            <children xmi:type="notation:Node" xmi:id="_ySV3sZ_0EeSM_YFmrssJ4g" type="skshapes">
+              <styles xmi:type="notation:DrawerStyle" xmi:id="_ySV3sp_0EeSM_YFmrssJ4g"/>
+              <styles xmi:type="notation:TitleStyle" xmi:id="_ySV3s5_0EeSM_YFmrssJ4g"/>
+              <styles xmi:type="notation:DrawerStyle" xmi:id="_ySV3tJ_0EeSM_YFmrssJ4g"/>
+              <styles xmi:type="notation:TitleStyle" xmi:id="_ySV3tZ_0EeSM_YFmrssJ4g"/>
+              <element xsi:nil="true"/>
+            </children>
+            <children xmi:type="notation:Node" xmi:id="_ySV3tp_0EeSM_YFmrssJ4g" type="skdescription">
+              <element xsi:nil="true"/>
+            </children>
+            <styles xmi:type="notation:ShapeStyle" xmi:id="_ySV3t5_0EeSM_YFmrssJ4g" description="Int_Hand_Moving_LEFT_RIGHT" transparency="0" lineWidth="3" roundedBendpointsRadius="12"/>
+            <styles xmi:type="notation:LineTypeStyle" xmi:id="_ySV3uJ_0EeSM_YFmrssJ4g"/>
+            <styles xmi:type="SketchNotation:SketchStyle" xmi:id="_ySV3uZ_0EeSM_YFmrssJ4g">
+              <visualizedFromList>platform:/resource/TTair7.0_Unstable/DOC/TTAirHouse.sketch#_Zl4DIJ_iEeSM_YFmrssJ4g</visualizedFromList>
+              <visualizedFromNameList>TTAirHouse.sketch</visualizedFromNameList>
+            </styles>
+            <styles xmi:type="notation:RoundedCornersStyle" xmi:id="_ySV3up_0EeSM_YFmrssJ4g"/>
+            <styles xmi:type="notation:TextStyle" xmi:id="_ySV3u5_0EeSM_YFmrssJ4g" textAlignment="Center"/>
+            <element xsi:nil="true"/>
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_ySV3vJ_0EeSM_YFmrssJ4g" x="450" y="3971"/>
+          </children>
+          <children xmi:type="notation:Node" xmi:id="_MAqQAJ_1EeSM_YFmrssJ4g" type="sktitle">
+            <children xmi:type="notation:Node" xmi:id="_MAqQAZ_1EeSM_YFmrssJ4g" type="skshapes">
+              <styles xmi:type="notation:DrawerStyle" xmi:id="_MAqQAp_1EeSM_YFmrssJ4g"/>
+              <styles xmi:type="notation:TitleStyle" xmi:id="_MAqQA5_1EeSM_YFmrssJ4g"/>
+              <styles xmi:type="notation:DrawerStyle" xmi:id="_MAqQBJ_1EeSM_YFmrssJ4g"/>
+              <styles xmi:type="notation:TitleStyle" xmi:id="_MAqQBZ_1EeSM_YFmrssJ4g"/>
+              <element xsi:nil="true"/>
+            </children>
+            <children xmi:type="notation:Node" xmi:id="_MAqQBp_1EeSM_YFmrssJ4g" type="skdescription">
+              <element xsi:nil="true"/>
+            </children>
+            <styles xmi:type="notation:ShapeStyle" xmi:id="_MAqQB5_1EeSM_YFmrssJ4g" description="Int_Hand_Together_LEFT_AND_RIGHT" transparency="0" lineWidth="3" roundedBendpointsRadius="12"/>
+            <styles xmi:type="notation:LineTypeStyle" xmi:id="_MAqQCJ_1EeSM_YFmrssJ4g"/>
+            <styles xmi:type="SketchNotation:SketchStyle" xmi:id="_MAqQCZ_1EeSM_YFmrssJ4g">
+              <visualizedFromList>platform:/resource/TTair7.0_Unstable/DOC/TTAirHouse.sketch#_Zl4DIJ_iEeSM_YFmrssJ4g</visualizedFromList>
+              <visualizedFromNameList>TTAirHouse.sketch</visualizedFromNameList>
+            </styles>
+            <styles xmi:type="notation:RoundedCornersStyle" xmi:id="_MAqQCp_1EeSM_YFmrssJ4g"/>
+            <styles xmi:type="notation:TextStyle" xmi:id="_MAqQC5_1EeSM_YFmrssJ4g" textAlignment="Center"/>
+            <element xsi:nil="true"/>
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_MAqQDJ_1EeSM_YFmrssJ4g" x="407" y="4690"/>
+          </children>
+          <styles xmi:type="notation:DrawerStyle" xmi:id="_iFr2Vp_kEeSM_YFmrssJ4g"/>
+          <styles xmi:type="notation:TitleStyle" xmi:id="_iFr2V5_kEeSM_YFmrssJ4g"/>
+          <styles xmi:type="notation:DrawerStyle" xmi:id="_iFr2WJ_kEeSM_YFmrssJ4g"/>
+          <styles xmi:type="notation:TitleStyle" xmi:id="_iFr2WZ_kEeSM_YFmrssJ4g"/>
+          <element xsi:nil="true"/>
+        </children>
+        <children xmi:type="notation:Node" xmi:id="_iFr2Wp_kEeSM_YFmrssJ4g" type="skdescription">
+          <element xsi:nil="true"/>
+        </children>
+        <styles xmi:type="notation:ShapeStyle" xmi:id="_iFr2W5_kEeSM_YFmrssJ4g" description="Hand" transparency="0" lineWidth="3" roundedBendpointsRadius="12"/>
+        <styles xmi:type="notation:LineTypeStyle" xmi:id="_iFr2XJ_kEeSM_YFmrssJ4g"/>
+        <styles xmi:type="SketchNotation:SketchStyle" xmi:id="_iFr2XZ_kEeSM_YFmrssJ4g">
+          <visualizedFromList>platform:/resource/TTair7.0_Unstable/DOC/TTAirHouse.sketch#_KbwCUJ_iEeSM_YFmrssJ4g</visualizedFromList>
+          <visualizedFromNameList>TTAirHouse.sketch</visualizedFromNameList>
+        </styles>
+        <styles xmi:type="notation:RoundedCornersStyle" xmi:id="_iFr2Xp_kEeSM_YFmrssJ4g"/>
+        <styles xmi:type="notation:TextStyle" xmi:id="_iFr2X5_kEeSM_YFmrssJ4g" textAlignment="Center"/>
+        <element xsi:nil="true"/>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_iFr2YJ_kEeSM_YFmrssJ4g" x="6756" y="1120" width="8847" height="5926"/>
+      </children>
+      <children xmi:type="notation:Node" xmi:id="_iFr2YZ_kEeSM_YFmrssJ4g" type="skrectangle">
+        <children xmi:type="notation:Node" xmi:id="_iFr2Yp_kEeSM_YFmrssJ4g" type="skshapes">
+          <children xmi:type="notation:Node" xmi:id="_iFr2cJ_kEeSM_YFmrssJ4g" type="sktitle">
+            <children xmi:type="notation:Node" xmi:id="_iFr2cZ_kEeSM_YFmrssJ4g" type="skshapes">
+              <styles xmi:type="notation:DrawerStyle" xmi:id="_iFr2cp_kEeSM_YFmrssJ4g"/>
+              <styles xmi:type="notation:TitleStyle" xmi:id="_iFr2c5_kEeSM_YFmrssJ4g"/>
+              <styles xmi:type="notation:DrawerStyle" xmi:id="_iFr2dJ_kEeSM_YFmrssJ4g"/>
+              <styles xmi:type="notation:TitleStyle" xmi:id="_iFr2dZ_kEeSM_YFmrssJ4g"/>
+              <element xsi:nil="true"/>
+            </children>
+            <children xmi:type="notation:Node" xmi:id="_iFr2dp_kEeSM_YFmrssJ4g" type="skdescription">
+              <element xsi:nil="true"/>
+            </children>
+            <styles xmi:type="notation:ShapeStyle" xmi:id="_iFr2d5_kEeSM_YFmrssJ4g" description="Int_User_LOST" transparency="0" lineWidth="3" roundedBendpointsRadius="12"/>
+            <styles xmi:type="notation:LineTypeStyle" xmi:id="_iFr2eJ_kEeSM_YFmrssJ4g"/>
+            <styles xmi:type="SketchNotation:SketchStyle" xmi:id="_iFr2eZ_kEeSM_YFmrssJ4g">
+              <visualizedFromList>platform:/resource/TTair7.0_Unstable/DOC/TTAirHouse.sketch#_6OtocJ_gEeSM_YFmrssJ4g</visualizedFromList>
+              <visualizedFromNameList>TTAirHouse.sketch</visualizedFromNameList>
+            </styles>
+            <styles xmi:type="notation:RoundedCornersStyle" xmi:id="_iFr2ep_kEeSM_YFmrssJ4g"/>
+            <styles xmi:type="notation:TextStyle" xmi:id="_iFr2e5_kEeSM_YFmrssJ4g" textAlignment="Center"/>
+            <element xsi:nil="true"/>
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_iFr2fJ_kEeSM_YFmrssJ4g" x="691" y="1449"/>
+          </children>
+          <children xmi:type="notation:Node" xmi:id="_U_RHkJ_mEeSM_YFmrssJ4g" type="sktitle">
+            <children xmi:type="notation:Node" xmi:id="_U_RHkZ_mEeSM_YFmrssJ4g" type="skshapes">
+              <styles xmi:type="notation:DrawerStyle" xmi:id="_U_RHkp_mEeSM_YFmrssJ4g"/>
+              <styles xmi:type="notation:TitleStyle" xmi:id="_U_RHk5_mEeSM_YFmrssJ4g"/>
+              <styles xmi:type="notation:DrawerStyle" xmi:id="_U_RHlJ_mEeSM_YFmrssJ4g"/>
+              <styles xmi:type="notation:TitleStyle" xmi:id="_U_RHlZ_mEeSM_YFmrssJ4g"/>
+              <element xsi:nil="true"/>
+            </children>
+            <children xmi:type="notation:Node" xmi:id="_U_RHlp_mEeSM_YFmrssJ4g" type="skdescription">
+              <element xsi:nil="true"/>
+            </children>
+            <styles xmi:type="notation:ShapeStyle" xmi:id="_U_RHl5_mEeSM_YFmrssJ4g" description="Int_User_NEW" transparency="0" lineWidth="3" roundedBendpointsRadius="12"/>
+            <styles xmi:type="notation:LineTypeStyle" xmi:id="_U_RHmJ_mEeSM_YFmrssJ4g"/>
+            <styles xmi:type="SketchNotation:SketchStyle" xmi:id="_U_RHmZ_mEeSM_YFmrssJ4g">
+              <visualizedFromList>platform:/resource/TTair7.0_Unstable/DOC/TTAirHouse.sketch#_42IhYJ_fEeSM_YFmrssJ4g</visualizedFromList>
+              <visualizedFromNameList>TTAirHouse.sketch</visualizedFromNameList>
+            </styles>
+            <styles xmi:type="notation:RoundedCornersStyle" xmi:id="_U_RHmp_mEeSM_YFmrssJ4g"/>
+            <styles xmi:type="notation:TextStyle" xmi:id="_U_RHm5_mEeSM_YFmrssJ4g" textAlignment="Center"/>
+            <element xsi:nil="true"/>
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_U_RHnJ_mEeSM_YFmrssJ4g" x="296" y="757" width="4543" height="866"/>
+          </children>
+          <styles xmi:type="notation:DrawerStyle" xmi:id="_iFr2fZ_kEeSM_YFmrssJ4g"/>
+          <styles xmi:type="notation:TitleStyle" xmi:id="_iFr2fp_kEeSM_YFmrssJ4g"/>
+          <styles xmi:type="notation:DrawerStyle" xmi:id="_iFr2f5_kEeSM_YFmrssJ4g"/>
+          <styles xmi:type="notation:TitleStyle" xmi:id="_iFr2gJ_kEeSM_YFmrssJ4g"/>
+          <element xsi:nil="true"/>
+        </children>
+        <children xmi:type="notation:Node" xmi:id="_iFr2gZ_kEeSM_YFmrssJ4g" type="skdescription">
+          <element xsi:nil="true"/>
+        </children>
+        <styles xmi:type="notation:ShapeStyle" xmi:id="_iFr2gp_kEeSM_YFmrssJ4g" description="User" transparency="0" lineWidth="3" roundedBendpointsRadius="12"/>
+        <styles xmi:type="notation:LineTypeStyle" xmi:id="_iFr2g5_kEeSM_YFmrssJ4g"/>
+        <styles xmi:type="SketchNotation:SketchStyle" xmi:id="_iFr2hJ_kEeSM_YFmrssJ4g">
+          <visualizedFromList>platform:/resource/TTair7.0_Unstable/DOC/TTAirHouse.sketch#_rh5j0J_iEeSM_YFmrssJ4g</visualizedFromList>
+          <visualizedFromNameList>TTAirHouse.sketch</visualizedFromNameList>
+        </styles>
+        <styles xmi:type="notation:RoundedCornersStyle" xmi:id="_iFr2hZ_kEeSM_YFmrssJ4g"/>
+        <styles xmi:type="notation:TextStyle" xmi:id="_iFr2hp_kEeSM_YFmrssJ4g" textAlignment="Center"/>
+        <element xsi:nil="true"/>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_iFr2h5_kEeSM_YFmrssJ4g" x="16540" y="1152" width="5268" height="3280"/>
+      </children>
+      <children xmi:type="notation:Node" xmi:id="_iFr2iJ_kEeSM_YFmrssJ4g" type="skrectangle">
+        <children xmi:type="notation:Node" xmi:id="_iFr2iZ_kEeSM_YFmrssJ4g" type="skshapes">
+          <children xmi:type="notation:Node" xmi:id="_iFr2ip_kEeSM_YFmrssJ4g" type="sktitle">
+            <children xmi:type="notation:Node" xmi:id="_iFr2i5_kEeSM_YFmrssJ4g" type="skshapes">
+              <styles xmi:type="notation:DrawerStyle" xmi:id="_iFr2jJ_kEeSM_YFmrssJ4g"/>
+              <styles xmi:type="notation:TitleStyle" xmi:id="_iFr2jZ_kEeSM_YFmrssJ4g"/>
+              <styles xmi:type="notation:DrawerStyle" xmi:id="_iFr2jp_kEeSM_YFmrssJ4g"/>
+              <styles xmi:type="notation:TitleStyle" xmi:id="_iFr2j5_kEeSM_YFmrssJ4g"/>
+              <element xsi:nil="true"/>
+            </children>
+            <children xmi:type="notation:Node" xmi:id="_iFr2kJ_kEeSM_YFmrssJ4g" type="skdescription">
+              <element xsi:nil="true"/>
+            </children>
+            <styles xmi:type="notation:ShapeStyle" xmi:id="_iFr2kZ_kEeSM_YFmrssJ4g" description="Int_Temp_BETEWEEN_27_30" transparency="0" lineWidth="3" roundedBendpointsRadius="12"/>
+            <styles xmi:type="notation:LineTypeStyle" xmi:id="_iFr2kp_kEeSM_YFmrssJ4g"/>
+            <styles xmi:type="SketchNotation:SketchStyle" xmi:id="_iFr2k5_kEeSM_YFmrssJ4g">
+              <visualizedFromList>platform:/resource/TTair7.0_Unstable/DOC/TTAirHouse.sketch#_AU91AZ_hEeSM_YFmrssJ4g</visualizedFromList>
+              <visualizedFromNameList>TTAirHouse.sketch</visualizedFromNameList>
+            </styles>
+            <styles xmi:type="notation:RoundedCornersStyle" xmi:id="_iFr2lJ_kEeSM_YFmrssJ4g"/>
+            <styles xmi:type="notation:TextStyle" xmi:id="_iFr2lZ_kEeSM_YFmrssJ4g" textAlignment="Center"/>
+            <element xsi:nil="true"/>
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_iFr2lp_kEeSM_YFmrssJ4g" x="21" y="1204"/>
+          </children>
+          <children xmi:type="notation:Node" xmi:id="_iFr2l5_kEeSM_YFmrssJ4g" type="sktitle">
+            <children xmi:type="notation:Node" xmi:id="_iFr2mJ_kEeSM_YFmrssJ4g" type="skshapes">
+              <styles xmi:type="notation:DrawerStyle" xmi:id="_iFr2mZ_kEeSM_YFmrssJ4g"/>
+              <styles xmi:type="notation:TitleStyle" xmi:id="_iFr2mp_kEeSM_YFmrssJ4g"/>
+              <styles xmi:type="notation:DrawerStyle" xmi:id="_iFr2m5_kEeSM_YFmrssJ4g"/>
+              <styles xmi:type="notation:TitleStyle" xmi:id="_iFr2nJ_kEeSM_YFmrssJ4g"/>
+              <element xsi:nil="true"/>
+            </children>
+            <children xmi:type="notation:Node" xmi:id="_iFr2nZ_kEeSM_YFmrssJ4g" type="skdescription">
+              <element xsi:nil="true"/>
+            </children>
+            <styles xmi:type="notation:ShapeStyle" xmi:id="_iFr2np_kEeSM_YFmrssJ4g" description="Int_Temp_MAJOR_30" transparency="0" lineWidth="3" roundedBendpointsRadius="12"/>
+            <styles xmi:type="notation:LineTypeStyle" xmi:id="_iFr2n5_kEeSM_YFmrssJ4g"/>
+            <styles xmi:type="SketchNotation:SketchStyle" xmi:id="_iFr2oJ_kEeSM_YFmrssJ4g">
+              <visualizedFromList>platform:/resource/TTair7.0_Unstable/DOC/TTAirHouse.sketch#_IVIJgJ_hEeSM_YFmrssJ4g</visualizedFromList>
+              <visualizedFromNameList>TTAirHouse.sketch</visualizedFromNameList>
+            </styles>
+            <styles xmi:type="notation:RoundedCornersStyle" xmi:id="_iFr2oZ_kEeSM_YFmrssJ4g"/>
+            <styles xmi:type="notation:TextStyle" xmi:id="_iFr2op_kEeSM_YFmrssJ4g" textAlignment="Center"/>
+            <element xsi:nil="true"/>
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_iFr2o5_kEeSM_YFmrssJ4g" x="21" y="760"/>
+          </children>
+          <styles xmi:type="notation:DrawerStyle" xmi:id="_iFr2pJ_kEeSM_YFmrssJ4g"/>
+          <styles xmi:type="notation:TitleStyle" xmi:id="_iFr2pZ_kEeSM_YFmrssJ4g"/>
+          <styles xmi:type="notation:DrawerStyle" xmi:id="_iFr2pp_kEeSM_YFmrssJ4g"/>
+          <styles xmi:type="notation:TitleStyle" xmi:id="_iFr2p5_kEeSM_YFmrssJ4g"/>
+          <element xsi:nil="true"/>
+        </children>
+        <children xmi:type="notation:Node" xmi:id="_iFr2qJ_kEeSM_YFmrssJ4g" type="skdescription">
+          <element xsi:nil="true"/>
+        </children>
+        <styles xmi:type="notation:ShapeStyle" xmi:id="_iFr2qZ_kEeSM_YFmrssJ4g" fontName="Comic Sans MS" fontHeight="10" description="Temperature" transparency="0" lineWidth="3"/>
+        <styles xmi:type="notation:LineTypeStyle" xmi:id="_iFr2qp_kEeSM_YFmrssJ4g"/>
+        <styles xmi:type="SketchNotation:SketchStyle" xmi:id="_iFr2q5_kEeSM_YFmrssJ4g" expandWidth="7007" expandHeight="2838">
+          <visualizedFromList>platform:/resource/TTair7.0_Unstable/DOC/TTAirHouse.sketch#_87Lj0J_iEeSM_YFmrssJ4g</visualizedFromList>
+          <visualizedFromNameList>TTAirHouse.sketch</visualizedFromNameList>
+        </styles>
+        <styles xmi:type="notation:RoundedCornersStyle" xmi:id="_iFr2rJ_kEeSM_YFmrssJ4g"/>
+        <styles xmi:type="notation:TextStyle" xmi:id="_iFr2rZ_kEeSM_YFmrssJ4g" textAlignment="Center"/>
+        <element xsi:nil="true"/>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_iFr2rp_kEeSM_YFmrssJ4g" x="22657" y="1196" width="7049" height="3430"/>
+      </children>
+      <children xmi:type="notation:Node" xmi:id="_iFr2r5_kEeSM_YFmrssJ4g" type="skrectangle">
+        <children xmi:type="notation:Node" xmi:id="_iFr2sJ_kEeSM_YFmrssJ4g" type="skshapes">
+          <children xmi:type="notation:Node" xmi:id="_iFr2sZ_kEeSM_YFmrssJ4g" type="sktitle">
+            <children xmi:type="notation:Node" xmi:id="_iFr2sp_kEeSM_YFmrssJ4g" type="skshapes">
+              <styles xmi:type="notation:DrawerStyle" xmi:id="_iFr2s5_kEeSM_YFmrssJ4g"/>
+              <styles xmi:type="notation:TitleStyle" xmi:id="_iFr2tJ_kEeSM_YFmrssJ4g"/>
+              <styles xmi:type="notation:DrawerStyle" xmi:id="_iFr2tZ_kEeSM_YFmrssJ4g"/>
+              <styles xmi:type="notation:TitleStyle" xmi:id="_iFr2tp_kEeSM_YFmrssJ4g"/>
+              <element xsi:nil="true"/>
+            </children>
+            <children xmi:type="notation:Node" xmi:id="_iFr2t5_kEeSM_YFmrssJ4g" type="skdescription">
+              <element xsi:nil="true"/>
+            </children>
+            <styles xmi:type="notation:ShapeStyle" xmi:id="_iFr2uJ_kEeSM_YFmrssJ4g" description="Int_SensLight_DARK" transparency="0" lineWidth="3" roundedBendpointsRadius="12"/>
+            <styles xmi:type="notation:LineTypeStyle" xmi:id="_iFr2uZ_kEeSM_YFmrssJ4g"/>
+            <styles xmi:type="SketchNotation:SketchStyle" xmi:id="_iFr2up_kEeSM_YFmrssJ4g">
+              <visualizedFromList>platform:/resource/TTair7.0_Unstable/DOC/TTAirHouse.sketch#_24rWMJ_fEeSM_YFmrssJ4g</visualizedFromList>
+              <visualizedFromNameList>TTAirHouse.sketch</visualizedFromNameList>
+            </styles>
+            <styles xmi:type="notation:RoundedCornersStyle" xmi:id="_iFr2u5_kEeSM_YFmrssJ4g"/>
+            <styles xmi:type="notation:TextStyle" xmi:id="_iFr2vJ_kEeSM_YFmrssJ4g" textAlignment="Center"/>
+            <element xsi:nil="true"/>
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_iFr2vZ_kEeSM_YFmrssJ4g" x="245" y="1163"/>
+          </children>
+          <children xmi:type="notation:Node" xmi:id="_iFr2vp_kEeSM_YFmrssJ4g" type="sktitle">
+            <children xmi:type="notation:Node" xmi:id="_iFr2v5_kEeSM_YFmrssJ4g" type="skshapes">
+              <styles xmi:type="notation:DrawerStyle" xmi:id="_iFr2wJ_kEeSM_YFmrssJ4g"/>
+              <styles xmi:type="notation:TitleStyle" xmi:id="_iFr2wZ_kEeSM_YFmrssJ4g"/>
+              <styles xmi:type="notation:DrawerStyle" xmi:id="_iFr2wp_kEeSM_YFmrssJ4g"/>
+              <styles xmi:type="notation:TitleStyle" xmi:id="_iFr2w5_kEeSM_YFmrssJ4g"/>
+              <element xsi:nil="true"/>
+            </children>
+            <children xmi:type="notation:Node" xmi:id="_iFr2xJ_kEeSM_YFmrssJ4g" type="skdescription">
+              <element xsi:nil="true"/>
+            </children>
+            <styles xmi:type="notation:ShapeStyle" xmi:id="_iFr2xZ_kEeSM_YFmrssJ4g" description="Int_SensLight_LIGHT" transparency="0" lineWidth="3" roundedBendpointsRadius="12"/>
+            <styles xmi:type="notation:LineTypeStyle" xmi:id="_iFr2xp_kEeSM_YFmrssJ4g"/>
+            <styles xmi:type="SketchNotation:SketchStyle" xmi:id="_iFr2x5_kEeSM_YFmrssJ4g">
+              <visualizedFromList>platform:/resource/TTair7.0_Unstable/DOC/TTAirHouse.sketch#_oPPVsJ_hEeSM_YFmrssJ4g</visualizedFromList>
+              <visualizedFromNameList>TTAirHouse.sketch</visualizedFromNameList>
+            </styles>
+            <styles xmi:type="notation:RoundedCornersStyle" xmi:id="_iFr2yJ_kEeSM_YFmrssJ4g"/>
+            <styles xmi:type="notation:TextStyle" xmi:id="_iFr2yZ_kEeSM_YFmrssJ4g" textAlignment="Center"/>
+            <element xsi:nil="true"/>
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_iFr2yp_kEeSM_YFmrssJ4g" x="336" y="527"/>
+          </children>
+          <styles xmi:type="notation:DrawerStyle" xmi:id="_iFr2y5_kEeSM_YFmrssJ4g"/>
+          <styles xmi:type="notation:TitleStyle" xmi:id="_iFr2zJ_kEeSM_YFmrssJ4g"/>
+          <styles xmi:type="notation:DrawerStyle" xmi:id="_iFr2zZ_kEeSM_YFmrssJ4g"/>
+          <styles xmi:type="notation:TitleStyle" xmi:id="_iFr2zp_kEeSM_YFmrssJ4g"/>
+          <element xsi:nil="true"/>
+        </children>
+        <children xmi:type="notation:Node" xmi:id="_iFr2z5_kEeSM_YFmrssJ4g" type="skdescription">
+          <element xsi:nil="true"/>
+        </children>
+        <styles xmi:type="notation:ShapeStyle" xmi:id="_iFr20J_kEeSM_YFmrssJ4g" description="Light" transparency="0" lineWidth="3" roundedBendpointsRadius="12"/>
+        <styles xmi:type="notation:LineTypeStyle" xmi:id="_iFr20Z_kEeSM_YFmrssJ4g"/>
+        <styles xmi:type="SketchNotation:SketchStyle" xmi:id="_iFr20p_kEeSM_YFmrssJ4g">
+          <visualizedFromList>platform:/resource/TTair7.0_Unstable/DOC/TTAirHouse.sketch#_Td6w8J_jEeSM_YFmrssJ4g</visualizedFromList>
+          <visualizedFromNameList>TTAirHouse.sketch</visualizedFromNameList>
+        </styles>
+        <styles xmi:type="notation:RoundedCornersStyle" xmi:id="_iFr205_kEeSM_YFmrssJ4g"/>
+        <styles xmi:type="notation:TextStyle" xmi:id="_iFr21J_kEeSM_YFmrssJ4g" textAlignment="Center"/>
+        <element xsi:nil="true"/>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_iFr21Z_kEeSM_YFmrssJ4g" x="30046" y="1227" width="6583" height="3302"/>
+      </children>
+      <styles xmi:type="notation:DrawerStyle" xmi:id="_iFr21p_kEeSM_YFmrssJ4g"/>
+      <styles xmi:type="notation:TitleStyle" xmi:id="_iFr215_kEeSM_YFmrssJ4g"/>
+      <styles xmi:type="notation:DrawerStyle" xmi:id="_iFr22J_kEeSM_YFmrssJ4g"/>
+      <styles xmi:type="notation:TitleStyle" xmi:id="_iFr22Z_kEeSM_YFmrssJ4g"/>
+      <element xsi:nil="true"/>
+    </children>
+    <children xmi:type="notation:Node" xmi:id="_iFr22p_kEeSM_YFmrssJ4g" type="skdescription">
+      <element xsi:nil="true"/>
+    </children>
+    <styles xmi:type="notation:ShapeStyle" xmi:id="_iFr225_kEeSM_YFmrssJ4g" description="Interactions" transparency="0" lineWidth="3" roundedBendpointsRadius="12"/>
+    <styles xmi:type="notation:LineTypeStyle" xmi:id="_iFr23J_kEeSM_YFmrssJ4g"/>
+    <styles xmi:type="SketchNotation:SketchStyle" xmi:id="_iFr23Z_kEeSM_YFmrssJ4g">
+      <visualizedFromList>platform:/resource/TTair7.0_Unstable/DOC/TTAirHouse.sketch#_CZ4FUJ_cEeSM_YFmrssJ4g</visualizedFromList>
+      <visualizedFromNameList>TTAirHouse.sketch</visualizedFromNameList>
+    </styles>
+    <styles xmi:type="notation:RoundedCornersStyle" xmi:id="_iFr23p_kEeSM_YFmrssJ4g"/>
+    <styles xmi:type="notation:TextStyle" xmi:id="_iFr235_kEeSM_YFmrssJ4g" textAlignment="Center"/>
+    <element xsi:nil="true"/>
+    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_iFr24J_kEeSM_YFmrssJ4g" x="-22141" y="2695" width="41283" height="7868"/>
+  </children>
+  <children xmi:type="notation:Node" xmi:id="_iFr24Z_kEeSM_YFmrssJ4g" type="sklink">
+    <children xmi:type="notation:Node" xmi:id="_iFr26J_kEeSM_YFmrssJ4g" type="skshapes">
+      <styles xmi:type="notation:DrawerStyle" xmi:id="_iFr26Z_kEeSM_YFmrssJ4g" collapsed="true"/>
+      <styles xmi:type="notation:TitleStyle" xmi:id="_iFr26p_kEeSM_YFmrssJ4g"/>
+      <styles xmi:type="notation:DrawerStyle" xmi:id="_iFr265_kEeSM_YFmrssJ4g"/>
+      <styles xmi:type="notation:TitleStyle" xmi:id="_iFr27J_kEeSM_YFmrssJ4g"/>
+      <element xsi:nil="true"/>
+    </children>
+    <children xmi:type="notation:Node" xmi:id="_iFr27Z_kEeSM_YFmrssJ4g" type="skdescription">
+      <element xsi:nil="true"/>
+    </children>
+    <styles xmi:type="notation:ShapeStyle" xmi:id="_iFr24p_kEeSM_YFmrssJ4g" fontHeight="10" underline="true" description="&lt;&lt; TTAirHouse.sketch" transparency="0" lineColor="16711680" lineWidth="3" roundedBendpointsRadius="12"/>
+    <styles xmi:type="notation:LineTypeStyle" xmi:id="_iFr245_kEeSM_YFmrssJ4g"/>
+    <styles xmi:type="SketchNotation:SketchStyle" xmi:id="_iFr25J_kEeSM_YFmrssJ4g">
+      <visualizedFromList>platform:/resource/TTair7.0_Unstable/DOC/TTAirHouse.sketch#_ApP1QJ8YEeS7VqX7r7kJcg</visualizedFromList>
+      <visualizedFromNameList>TTAirHouse.sketch</visualizedFromNameList>
+    </styles>
+    <styles xmi:type="notation:RoundedCornersStyle" xmi:id="_iFr25Z_kEeSM_YFmrssJ4g"/>
+    <styles xmi:type="notation:TextStyle" xmi:id="_iFr25p_kEeSM_YFmrssJ4g" textAlignment="Center"/>
+    <element xsi:nil="true"/>
+    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_iFr255_kEeSM_YFmrssJ4g" x="-20982" y="268"/>
+  </children>
+  <children xmi:type="notation:Node" xmi:id="_ocDeXaAQEeSHxKNyh-Lqyw" type="sklink">
+    <children xmi:type="notation:Node" xmi:id="_ocDeZKAQEeSHxKNyh-Lqyw" type="skshapes">
+      <styles xmi:type="notation:DrawerStyle" xmi:id="_ocDeZaAQEeSHxKNyh-Lqyw"/>
+      <styles xmi:type="notation:TitleStyle" xmi:id="_ocDeZqAQEeSHxKNyh-Lqyw"/>
+      <styles xmi:type="notation:DrawerStyle" xmi:id="_ocDeZ6AQEeSHxKNyh-Lqyw"/>
+      <styles xmi:type="notation:TitleStyle" xmi:id="_ocDeaKAQEeSHxKNyh-Lqyw"/>
+      <element xsi:nil="true"/>
+    </children>
+    <children xmi:type="notation:Node" xmi:id="_ocDeaaAQEeSHxKNyh-Lqyw" type="skdescription">
+      <element xsi:nil="true"/>
+    </children>
+    <styles xmi:type="notation:ShapeStyle" xmi:id="_ocDeXqAQEeSHxKNyh-Lqyw" fontHeight="10" underline="true" description="TTAirHouse_BeheviorChain.sketch >>" transparency="0" lineColor="16711680" lineWidth="3" roundedBendpointsRadius="12"/>
+    <styles xmi:type="notation:LineTypeStyle" xmi:id="_ocDeX6AQEeSHxKNyh-Lqyw"/>
+    <styles xmi:type="SketchNotation:SketchStyle" xmi:id="_ocDeYKAQEeSHxKNyh-Lqyw">
+      <visualizedToList>platform:/resource/TTair7.0_Unstable/DOC/TTAirHouse_BeheviorChain.sketch#_obAVcKAQEeSHxKNyh-Lqyw</visualizedToList>
+      <visualizedToNameList>TTAirHouse_BeheviorChain.sketch</visualizedToNameList>
+    </styles>
+    <styles xmi:type="notation:RoundedCornersStyle" xmi:id="_ocDeYaAQEeSHxKNyh-Lqyw"/>
+    <styles xmi:type="notation:TextStyle" xmi:id="_ocDeYqAQEeSHxKNyh-Lqyw" textAlignment="Center"/>
+    <element xsi:nil="true"/>
+    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_ocDeY6AQEeSHxKNyh-Lqyw" x="-20982" y="768"/>
+  </children>
+</SketchNotation:SketchDiagram>

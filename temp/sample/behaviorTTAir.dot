@@ -1,0 +1,122 @@
+graph structs {
+	node [shape=record];
+	rankdir=TB;
+	subgraph cluster0{
+		rankdir=TB;
+		subgraph cluster0_1{
+			rankdir=TB;
+			node [style=filled];
+			style=filled;
+			color=lightblue;
+			
+
+			/*BARRAMENTO DE RECOGNIZERS*/
+			INT[shape=record,label="<intbus> INTBUS|.|<int01> INT01|<int02>INT02|<int03>INT03|<int04>INT04"];
+			
+			label="Interaction Buss";
+			
+		}
+
+
+		subgraph cluster0_3{
+			rankdir=TB;
+			node [style=filled];
+			style=filled;
+			color=lightgrey;
+			
+
+			/*BEHAVIOR FRAMES*/
+			BF01[shape=record,label="<bf01> BF01|<f1>.|{<int01>INT01|{<act08>ACT08|<act01>ACT01|<act02>ACT02}}"];
+			BF02[shape=record,label="<bf02> BF02|<f1>.|{<int01>INT01|{<act08>ACT08|<act01>ACT01|<act02>ACT02}}"];
+			BF03[shape=record,label="<bf03> BF03|<f1>.|{<int02>INT02|{<act08>ACT08|<act03>ACT03}}"];
+			BF04[shape=record,label="<bf04> BF04|<f1>.|{<int03>INT03|{<act08>ACT08|<act04>ACT04}}"];
+
+			label="BehaviorFrame Buss";
+		}
+
+
+		subgraph cluster0_2{
+			node [style=filled];
+			style=filled;
+			color=lightyellow;
+			/*BARRAMENTO DE ACTIONS*/
+			ACT[shape=record,label="<actbus> ACTBUS|.|<act01> ACT01|<act02>ACT02|<act03>ACT03|<act04>ACT04|<act08>ACT08"];
+			label="Action Buss";
+		}
+
+
+		INT:int01--BF01:int01;
+		INT:int01--BF02:int01;
+		INT:int02--BF03:int02;
+		INT:int03--BF04:int03;	
+		
+		/*BEHAVIORFRAMES -> INTERACTIONS*/
+		
+		/*BF01:int01->INT:int01;
+		BF02:int01->INT:int01;
+		BF03:in02 ->INT:int02;
+		BF04:in03 ->INT:int03;*/
+		
+		/*BEHAVIORFRAMES -> ACTIONS*/
+		BF01:act01--ACT:act01;
+		BF01:act08--ACT:act08;
+
+		BF02:act01--ACT:act01;
+		BF02:act08--ACT:act08;
+		BF02:act02--ACT:act02;
+
+		BF03:act03--ACT:act03;
+		BF03:act08--ACT:act08;
+
+		BF04:act04--ACT:act04;
+		BF04:act08--ACT:act08;
+
+		
+
+	}
+
+
+	
+	
+	subgraph BehaviorChain {
+		node [style=filled];
+		style=filled;
+		color=lightgray;
+
+		ranksep=.75; 
+		size = "7.5,7.5";
+	
+		{ 
+		node [shape=plaintext, fontsize=16];
+		    /* nivel-line graph */
+		    expLevel01 -- expLevel02 -- expLevel03;	
+	 
+		}
+
+		
+		EXP01 [shape=record,label="<exp01>EXP01|<f0>.|<bf01> BF01}"];
+		EXP02 [shape=record,label="<exp02>EXP02|<f0>.|<bf01> BF01|<bf02> BF02}"];
+		EXP03 [shape=record,label="<exp03>EXP03|<f0>.|<bf01> BF01|<bf02> BF02|<bf03> BF03 |<bf04> BF04}"];
+
+		{ rank = same;expLevel01;EXP01};
+		{ rank = same;expLevel02;EXP02};
+		{ rank = same;expLevel03;EXP03};
+
+		EXP01:bf01--EXP02[label="BF01:EVTSUCESS", fontsize=10];
+		EXP02:bf01--EXP01[label="BF01:EVTSUCESS", fontsize=10];
+		EXP02:bf02--EXP03[label="BF02:EVTSUCESS", fontsize=10];
+		EXP03:bf01--EXP01[label="BF01:EVTSUCESS", fontsize=10];
+
+		label="BehaviorChain: BC01";
+	
+	}
+
+
+	EXP01:bf01--BF01;
+	EXP02:bf02--BF02;
+	EXP02:bf01--BF01;
+	EXP03:bf02--BF02;
+	EXP03:bf03--BF03;
+	EXP03:bf04--BF04;
+	
+}

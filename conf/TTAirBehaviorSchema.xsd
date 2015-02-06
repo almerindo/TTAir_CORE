@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema" elementFormDefault="qualified"
+    vc:maxVersion="1.1" vc:minVersion="1.0" xmlns:vc="http://www.w3.org/2007/XMLSchema-versioning">
+    <xs:complexType name="TTAirBasicType">
+    	<xs:sequence>
+    		<xs:element name="Name" type="xs:normalizedString" minOccurs="0" maxOccurs="1"/>
+    		<xs:element minOccurs="0" name="Description"
+    			type="xs:string" />
+    	</xs:sequence>
+    	<xs:attribute name="ID" type="xs:ID" use="required"/>
+    </xs:complexType>
+    <xs:complexType name="TTAirActionType">
+    	<xs:complexContent>
+    		<xs:extension base="TTAirBasicType">
+    			<xs:attribute name="ClassName" type="xs:string" use="required"></xs:attribute>
+    		</xs:extension>
+    	</xs:complexContent>
+    </xs:complexType>
+    <xs:complexType name="TTAirInteractionType">
+    	<xs:complexContent>
+    		<xs:extension base="TTAirBasicType">
+    			<xs:attribute name="ClassName" type="xs:string" use="required"></xs:attribute>
+    		</xs:extension>
+    	</xs:complexContent>
+    </xs:complexType>
+    <xs:complexType name="TTAirBehaviorFrameType">
+        <xs:complexContent>
+            <xs:extension base="TTAirBasicType">
+                <xs:sequence>
+                	<xs:element name="Event" type="TTAirEventType" minOccurs="1" maxOccurs="1"></xs:element>
+                	<xs:element minOccurs="1" name="ActionID"
+                		type="xs:IDREFS" maxOccurs="unbounded"/>
+                </xs:sequence>
+            </xs:extension>
+        </xs:complexContent>
+    </xs:complexType>
+    <xs:complexType name="TTAirExpectancyType">
+        <xs:complexContent>
+            <xs:extension base="TTAirBasicType">
+                <xs:sequence>
+                    <xs:element form="qualified" name="BehaviorframeID" type="xs:IDREFS" maxOccurs="unbounded" minOccurs="0"/>
+                </xs:sequence>
+            </xs:extension>
+        </xs:complexContent>
+    </xs:complexType>
+    <xs:complexType name="TTAirBehaviorChainType">
+        <xs:complexContent>
+            <xs:extension base="TTAirBasicType">
+                <xs:sequence>
+                	<xs:element name="ExpectancyID" type="xs:IDREFS" maxOccurs="unbounded" minOccurs="1"/>
+                	<xs:element name="ExpectancyTransition" type="TTAirExpectancyTransition" maxOccurs="unbounded" minOccurs="0"></xs:element>
+                </xs:sequence>
+            </xs:extension>
+        </xs:complexContent>
+    </xs:complexType>
+    <xs:complexType name="TTAirExpectancyTransition">
+    	<xs:sequence>
+    		<xs:element name="CausedBy" type="xs:IDREF" minOccurs="1" maxOccurs="unbounded">
+    			<xs:annotation>
+    				<xs:documentation>BehaviorFrame que irá causar a transição.</xs:documentation>
+    			</xs:annotation></xs:element>
+    	</xs:sequence>
+    	<xs:attribute name="ID" type="xs:ID" use="required"/>
+    	<xs:attribute name="Source" type="xs:IDREF" use="required" >
+    		<xs:annotation>
+    			<xs:documentation>ID da Expectancy Origem</xs:documentation>
+    		</xs:annotation></xs:attribute>
+    	<xs:attribute name="Target" type="xs:IDREF" use="required" >
+    		<xs:annotation>
+    			<xs:documentation>ID da Expectancy destino</xs:documentation>
+    		</xs:annotation></xs:attribute>
+    </xs:complexType>
+    <xs:group name="interactionList">
+        <xs:sequence>
+            <xs:element maxOccurs="unbounded" minOccurs="1" name="Interaction"
+                type="TTAirInteractionType"/>
+        </xs:sequence>
+    </xs:group>
+    <xs:group name="actionList">
+        <xs:sequence>
+            <xs:element maxOccurs="unbounded" minOccurs="1" name="Action" type="TTAirActionType"/>
+        </xs:sequence>
+    </xs:group>
+    <xs:group name="behaviorFrameList">
+        <xs:sequence>
+            <xs:element maxOccurs="unbounded" minOccurs="1" name="BehaviorFrame"
+                type="TTAirBehaviorFrameType"/>
+        </xs:sequence>
+    </xs:group>
+    <xs:group name="expectancyList">
+        <xs:sequence>
+            <xs:element maxOccurs="unbounded" minOccurs="1" name="Expectancy"
+                type="TTAirExpectancyType"/>
+        </xs:sequence>
+    </xs:group>
+    <xs:group name="expectancyTransitionList">
+        <xs:sequence>
+            <xs:element maxOccurs="unbounded" minOccurs="0" name="expectancyTransition"
+                type="TTAirExpectancyTransition"/>
+        </xs:sequence>
+    </xs:group>
+    <xs:element name="Behavior">
+        <xs:complexType>
+        	<xs:sequence>
+        		<xs:group ref="interactionList" />
+        		<xs:group ref="actionList" />
+        		<xs:group ref="behaviorFrameList" />
+        		<xs:group ref="expectancyList" />
+        		<xs:element name="BehaviorChain" maxOccurs="unbounded"
+        			minOccurs="1">
+        			<xs:complexType>
+        				<xs:complexContent>
+        					<xs:extension
+        						base="TTAirBehaviorChainType">
+        						<xs:group
+        							ref="expectancyTransitionList" />
+        					</xs:extension>
+        				</xs:complexContent>
+        			</xs:complexType>
+        		</xs:element>
+        	</xs:sequence>
+        	<xs:attribute name="Log" type="xs:boolean" use="required"
+        		default="true">
+        	</xs:attribute>
+        	<xs:attribute name="FilePathLog" type="xs:string"
+        		default="./BehaviorLog.log">
+        	</xs:attribute>
+        	<xs:attribute name="ID" type="xs:ID" use="required"></xs:attribute>
+        </xs:complexType>
+    </xs:element>
+
+
+    <xs:complexType name="TTAirEventType">
+    	<xs:complexContent>
+    		<xs:extension base="TTAirBasicType">
+
+    			<xs:attribute name="RecognizerID" type="xs:IDREF"
+    				use="required">
+    			</xs:attribute>
+
+    			<xs:attribute name="Cod" type="xs:string"
+    				use="required">
+    				<xs:annotation>
+    					<xs:documentation>
+    						Cod é o código do evento que será enviado ou
+    						recebido.
+    					</xs:documentation>
+    				</xs:annotation>
+    			</xs:attribute>
+
+    		</xs:extension>
+    	</xs:complexContent>
+    </xs:complexType>
+
+    <xs:attribute name="NewAttribute" type="xs:string"></xs:attribute>
+
+</xs:schema>

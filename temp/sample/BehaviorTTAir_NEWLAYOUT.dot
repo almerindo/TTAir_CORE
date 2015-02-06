@@ -1,0 +1,83 @@
+digraph TTAirBehavior {
+	  compound=true;
+
+	node [shape=record];
+	subgraph cluster_BC001 {
+		node [style=filled]; 
+		style=filled;
+		color=lightblue;
+		
+		label="BehaviorChain:BC001";
+		
+		subgraph cluster_EXPC01 {
+			node [style=filled]; 
+			style=filled;
+			color=lightyellow;
+			EXPC01_BF01[shape=record,label="<bf01>BF01|<f0>.|{<101>101|{<201>201|<202>202}}"];
+			label="EXP001";	
+		}
+
+		subgraph cluster_EXPC02 {
+			node [style=filled]; 
+			style=filled;
+			color=lightyellow;
+			EXPC02_BF02[shape=record,label="<bf02>BF02|<f0>.|{<102>102|{<203>203|<204>204}}"];
+			label="EXP002";	
+		}
+
+		subgraph cluster_EXPCFINAL {
+			node [style=filled]; 
+			style=filled;
+			color=lightyellow;
+			EXPCFINAL_BF03[shape=record,label="<bf03>BF03|<f0>.|{<103>103|{<201>201|<202>202}}"];
+			EXPCFINAL_BF04[shape=record,label="<bf04>BF04|<f0>.|{<103>103|{<203>203|<204>204}}"];
+			label="EXPFINAL";	
+		}
+
+		EXPC01_BF01:bf01->EXPC02_BF02[ lhead=cluster_EXPC02, label="BF01:EVTHandInFront", fontsize=10];
+		EXPC02_BF02:bf02->EXPCFINAL_BF03[lhead=cluster_EXPCFINAL, label="BF02:EVTFaceRecognized", fontsize=10];
+		EXPCFINAL_BF03:bf03->EXPC01_BF01[lhead=cluster_EXPC01, label="BF03:EVTMousePositionScreenLEFT_UP", fontsize=10];
+		EXPCFINAL_BF04:bf04->EXPC02_BF02[lhead=cluster_EXPC02, label="BF04:EVTMousePositionScreenRIGHT_UP", fontsize=10];
+
+
+
+	}
+	subgraph cluster_Buss{
+		subgraph cluster_BF_Buss{
+			node [style=filled];
+			style=filled;
+			color=lightyellow;
+			BF01[shape=record,label="<bf01>BF01|<f0>.|{<101>101|{<201>201|<202>202}}"];
+			BF02[shape=record,label="<bf02>BF02|<f0>.|{<102>102|{<203>203|<204>204}}"];
+			BF03[shape=record,label="<bf03>BF03|<f0>.|{<103>103|{<201>201|<202>202}}"];
+			BF04[shape=record,label="<bf04>BF04|<f0>.|{<103>103|{<203>203|<204>204}}"];
+			label="BehaviorFrame Buss";
+		}
+		subgraph cluster_INT_BUSS{
+			node [style=filled];
+			style=filled;
+			color=lightblue;
+			INT[shape=record,label="<intbus>INTBUS|<f0>.|<101>101|<102>102|<103>103"];
+			label="Interaction Buss";
+		}
+		subgraph cluster_ACT_BUSS{
+			node [style=filled];
+			style=filled;
+			color=lightblue;
+			ACT[shape=record,label="<actbus> ACTBUS|<f0>.|<201>201|<202>202|<203>203|<204>204"];
+			label="Action Buss";
+		}
+		BF01:101->INT:101;
+		BF02:102->INT:102;
+		BF03:103->INT:103;
+		BF04:103->INT:103;
+		BF01:201->ACT :201;
+		BF01:202->ACT :202;
+		BF02:203->ACT :203;
+		BF02:204->ACT :204;
+		BF03:201->ACT :201;
+		BF03:202->ACT :202;
+		BF04:203->ACT :203;
+		BF04:204->ACT :204;
+	};
+}
